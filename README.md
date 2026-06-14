@@ -13,7 +13,7 @@ The project combines data preprocessing, exploratory data analysis (EDA), cluste
 
 Experience the application live:
 
-* **Streamlit Application:** [Launch Live App](https://your-app-name.streamlit.app)
+* **Streamlit Application:** [diabetes-risk-intelligence-system](https://diabetes-risk-intelligence-system.streamlit.app/)
 
 ---
 
@@ -21,7 +21,7 @@ Experience the application live:
 
 Source code and project documentation:
 
-* **GitHub Repository:** [bhuvaneshwarid48/patient-risk-intelligence](https://github.com/Bhuvaneshwari-Dhanabal/diabetes-risk-intelligence-system)
+* **GitHub Repository:** [bhuvaneshwarid48/diabetes-risk-intelligence](https://github.com/Bhuvaneshwari-Dhanabal/diabetes-risk-intelligence-system)
 
 ---
 
@@ -35,41 +35,58 @@ Source code and project documentation:
 ## Project Structure
 
 ```text
-diabetes-risk-intelligence-system/
+patient-risk-intelligence/
 │
-├── app.py
+├── app.py                               # Streamlit application
+├── requirements.txt
+├── README.md
+├── .gitignore
 │
 ├── assets/
-│   └── hospital_logo.png
-│
-├── models/
-│   └── diabetes_rf.pkl
-│
-├── reports/
+│   └── logo.jpg                         # Hospital/Project logo
 │
 ├── data/
 │   ├── raw/
-│   │   └── diabetes.csv
+│   │   └── diabetes.csv                 # Original dataset
 │   │
 │   └── processed/
-│       └── cleaned_patients.csv
+│       ├── cleaned_patients.csv
+│       ├── patient_clusters.csv
+│       ├── patient_predictions.csv
+│       ├── patient_recommendations.csv
+│       └── patient_risk_clusters.png
+│
+├── models/
+│   └── diabetes_rf.pkl                  # Trained Random Forest model
 │
 ├── notebooks/
-│   └── patient_EDA.ipynb
+│   └── patient_EDA.ipynb                # EDA notebook
+│
+├── reports/
+│   └── *.pdf                            # Generated patient reports
+│
+├── Screenshots/
+│   ├── home_page.png
+│   ├── report_section.png
+│   ├── sample_pdf.png
+│   └── save_pdf.png
 │
 ├── src/
-│   ├── preprocess.py
-│   ├── eda.py
-│   ├── outlier_detection.py
-│   ├── clustering.py
-│   ├── risk_scoring.py
-│   ├── diabetes_prediction.py
-│   ├── recommendation_engine.py
-│   ├── anomaly_alerts.py
-│   └── pdf_report.py
+│   ├── preprocess.py                    # Data cleaning & feature engineering
+│   ├── eda.py                           # Exploratory Data Analysis
+│   ├── outlier_detection.py             # IQR-based anomaly detection
+│   ├── clustering.py                    # K-Means patient segmentation
+│   ├── risk_scoring.py                  # Custom risk score calculation
+│   ├── diabetes_prediction.py           # Random Forest prediction
+│   ├── recommendation_engine.py         # Personalized recommendations
+│   ├── anomaly_alerts.py                # Critical health alerts
+│   └── pdf_report.py                    # Medical PDF report generation
 │
-├── requirements.txt
-└── README.md
+└── Visualizations/
+    ├── age_distribution.png
+    ├── BMI_distributions.png
+    ├── Correlation_Heatmap.png
+    └── Glucose_outcome_boxplot.png
 ```
 
 ---
@@ -250,9 +267,8 @@ streamlit run app.py
 
 ---
 
-## Author
+## Author 🧬
 
 ### Bhuvaneshwari D
-**Aspiring Data Analyst | Python Developer | Cloud & AI Enthusiast**
-
-* **GitHub:** [@Bhuvaneshwari-Dhanabal](https://github.com/Bhuvaneshwari-Dhanabal)
+**Aspiring Data Analyst | Python Developer | Cloud & AI Enthusiast**  
+**GitHub:** [@Bhuvaneshwari-Dhanabal](https://github.com/Bhuvaneshwari-Dhanabal)
