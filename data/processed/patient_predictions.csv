@@ -1,0 +1,769 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome,AgeBand,BMICategory,Cluster,RiskGroup,ClusterLabel,RawRiskScore,RiskScore,Prediction,PredictionProbability,Recommendation,Alert
+6,148.0,72.0,35,0,33.6,0.627,50,1,50+,Obese,2,Medium Risk,Medium Risk,84.28,67.28,1,88.0,Lifestyle intervention and glucose monitoring,No Alert
+1,85.0,66.0,29,0,26.6,0.351,31,0,30-40,Overweight,1,Low Risk,Low Risk,51.28,21.39,0,2.0,Maintain healthy lifestyle,No Alert
+8,183.0,64.0,0,0,23.3,0.672,32,1,30-40,Normal,0,High Risk,High Risk,89.78999999999999,74.94,1,88.0,Lifestyle intervention and glucose monitoring,Very High Glucose
+1,89.0,66.0,23,94,28.1,0.167,21,0,20-30,Overweight,1,Low Risk,Low Risk,50.33,20.07,0,1.0,Maintain healthy lifestyle,No Alert
+0,137.0,40.0,35,168,43.1,2.288,33,1,30-40,Obese,0,High Risk,High Risk,77.63000000000001,58.03,1,91.0,Regular health checkup recommended,Severe Obesity Risk
+5,116.0,74.0,0,0,25.6,0.201,30,0,30-40,Overweight,1,Low Risk,Low Risk,63.080000000000005,37.8,0,7.0,Maintain healthy lifestyle,No Alert
+3,78.0,50.0,32,88,31.0,0.248,26,1,20-30,Obese,1,Low Risk,Low Risk,48.3,17.24,0,9.0,Maintain healthy lifestyle,No Alert
+10,115.0,72.0,0,0,35.3,0.134,29,0,20-30,Obese,1,Low Risk,Low Risk,65.28999999999999,40.87,0,19.0,Regular health checkup recommended,No Alert
+2,197.0,70.0,45,543,30.5,0.158,53,1,50+,Obese,2,Medium Risk,Medium Risk,103.85000000000002,94.49,1,90.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+8,125.0,96.0,0,0,32.3,0.232,54,1,50+,Obese,2,Medium Risk,Medium Risk,75.89,55.61,1,67.0,Regular health checkup recommended,No Alert
+4,110.0,92.0,0,0,37.6,0.191,30,0,30-40,Obese,1,Low Risk,Low Risk,64.28,39.47,0,4.0,Maintain healthy lifestyle,No Alert
+10,168.0,74.0,0,0,38.0,0.537,34,1,30-40,Obese,0,High Risk,High Risk,88.80000000000001,73.56,1,92.0,Lifestyle intervention and glucose monitoring,No Alert
+10,139.0,80.0,0,0,27.1,1.441,57,0,50+,Overweight,2,Medium Risk,Medium Risk,80.83,62.48,0,7.0,Lifestyle intervention and glucose monitoring,No Alert
+1,189.0,60.0,23,846,30.1,0.398,59,1,50+,Obese,2,Medium Risk,Medium Risk,102.33,92.38,1,64.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+5,166.0,72.0,19,175,25.8,0.587,51,1,50+,Overweight,2,Medium Risk,Medium Risk,89.44,74.45,1,90.0,Lifestyle intervention and glucose monitoring,No Alert
+7,100.0,72.0,0,0,30.0,0.484,32,1,30-40,Obese,1,Low Risk,Low Risk,58.6,31.57,1,73.0,Maintain healthy lifestyle,No Alert
+0,118.0,84.0,47,230,45.8,0.551,31,1,30-40,Obese,0,High Risk,High Risk,70.24,47.75,1,90.0,Regular health checkup recommended,Severe Obesity Risk
+7,107.0,74.0,0,0,29.6,0.254,31,1,30-40,Overweight,1,Low Risk,Low Risk,60.98,34.88,0,36.0,Maintain healthy lifestyle,No Alert
+1,103.0,30.0,38,83,43.3,0.183,33,0,30-40,Obese,1,Low Risk,Low Risk,64.09,39.2,0,13.0,Maintain healthy lifestyle,Severe Obesity Risk
+1,115.0,70.0,30,96,34.6,0.529,32,1,30-40,Obese,1,Low Risk,Low Risk,65.98,41.83,1,80.0,Regular health checkup recommended,No Alert
+3,126.0,88.0,41,235,39.3,0.704,27,0,20-30,Obese,0,High Risk,High Risk,70.29,47.82,0,15.0,Regular health checkup recommended,No Alert
+8,99.0,84.0,0,0,35.4,0.388,50,0,50+,Obese,2,Medium Risk,Medium Risk,65.22,40.77,0,8.0,Regular health checkup recommended,No Alert
+7,196.0,90.0,0,0,39.8,0.451,41,1,40-50,Obese,0,High Risk,High Risk,102.64,92.81,1,94.0,Immediate physician consultation,Very High Glucose
+9,119.0,80.0,35,0,29.0,0.263,29,1,20-30,Overweight,1,Low Risk,Low Risk,65.0,40.47,1,87.0,Regular health checkup recommended,No Alert
+11,143.0,94.0,33,146,36.6,0.254,51,1,50+,Obese,2,Medium Risk,Medium Risk,83.48,66.17,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+10,125.0,70.0,26,115,31.1,0.205,41,1,40-50,Obese,2,Medium Risk,Medium Risk,71.63,49.69,1,67.0,Regular health checkup recommended,No Alert
+7,147.0,76.0,0,0,39.4,0.257,43,1,40-50,Obese,2,Medium Risk,Medium Risk,83.52000000000001,66.22,1,85.0,Lifestyle intervention and glucose monitoring,No Alert
+1,97.0,66.0,15,140,23.2,0.487,22,0,20-30,Normal,1,Low Risk,Low Risk,52.36000000000001,22.89,0,1.0,Maintain healthy lifestyle,No Alert
+13,145.0,82.0,19,110,22.2,0.245,57,0,50+,Normal,2,Medium Risk,Medium Risk,81.75999999999999,63.77,0,26.0,Lifestyle intervention and glucose monitoring,No Alert
+5,117.0,92.0,0,0,34.1,0.337,38,0,30-40,Obese,1,Low Risk,Low Risk,68.43,45.24,0,12.0,Regular health checkup recommended,No Alert
+5,109.0,75.0,26,0,36.0,0.546,60,0,50+,Obese,2,Medium Risk,Medium Risk,72.4,50.76,0,27.0,Regular health checkup recommended,No Alert
+3,158.0,76.0,36,245,31.6,0.851,28,1,20-30,Obese,0,High Risk,High Risk,81.08000000000001,62.83,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+3,88.0,58.0,11,54,24.8,0.267,22,0,20-30,Normal,1,Low Risk,Low Risk,49.24,18.55,0,3.0,Maintain healthy lifestyle,No Alert
+6,92.0,92.0,0,0,19.9,0.188,28,0,20-30,Normal,1,Low Risk,Low Risk,51.17,21.23,0,1.0,Maintain healthy lifestyle,No Alert
+10,122.0,78.0,31,0,27.6,0.512,45,0,40-50,Overweight,2,Medium Risk,Medium Risk,70.58000000000001,48.23,0,31.0,Regular health checkup recommended,No Alert
+4,103.0,60.0,33,192,24.0,0.966,33,0,30-40,Normal,1,Low Risk,Low Risk,58.3,31.15,0,2.0,Maintain healthy lifestyle,No Alert
+11,138.0,76.0,0,0,33.2,0.42,35,0,30-40,Obese,0,High Risk,High Risk,75.66,55.29,0,25.0,Regular health checkup recommended,No Alert
+9,102.0,76.0,37,0,32.9,0.665,46,1,40-50,Obese,2,Medium Risk,Medium Risk,64.47,39.73,1,78.0,Maintain healthy lifestyle,No Alert
+2,90.0,68.0,42,0,38.2,0.503,27,1,20-30,Obese,1,Low Risk,Low Risk,55.56,27.34,0,8.0,Maintain healthy lifestyle,No Alert
+4,111.0,72.0,47,207,37.1,1.39,56,1,50+,Obese,2,Medium Risk,Medium Risk,72.33000000000001,50.66,1,75.0,Regular health checkup recommended,No Alert
+3,180.0,64.0,25,70,34.0,0.271,26,0,20-30,Obese,0,High Risk,High Risk,90.0,75.23,0,29.0,Lifestyle intervention and glucose monitoring,No Alert
+7,133.0,84.0,0,0,40.2,0.696,37,0,30-40,Obese,0,High Risk,High Risk,76.36,56.26,0,26.0,Regular health checkup recommended,Severe Obesity Risk
+7,106.0,92.0,18,0,22.7,0.235,48,0,40-50,Normal,2,Medium Risk,Medium Risk,63.61000000000001,38.53,0,8.0,Maintain healthy lifestyle,No Alert
+9,171.0,110.0,24,240,45.4,0.721,54,1,50+,Obese,2,Medium Risk,Medium Risk,98.22,86.66,1,93.0,Immediate physician consultation,Severe Obesity Risk
+7,159.0,64.0,0,0,27.4,0.294,40,0,40-50,Overweight,0,High Risk,High Risk,83.82,66.64,1,77.0,Lifestyle intervention and glucose monitoring,No Alert
+0,180.0,66.0,39,0,42.0,1.893,25,1,20-30,Obese,0,High Risk,High Risk,92.1,78.15,1,96.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+1,146.0,56.0,0,0,29.7,0.564,29,0,20-30,Overweight,0,High Risk,High Risk,76.01,55.78,0,17.0,Regular health checkup recommended,No Alert
+2,71.0,70.0,27,0,28.0,0.586,22,0,20-30,Overweight,1,Low Risk,Low Risk,43.400000000000006,10.43,0,0.0,Maintain healthy lifestyle,No Alert
+7,103.0,66.0,32,0,39.1,0.344,31,1,30-40,Obese,1,Low Risk,Low Risk,62.23,36.62,1,76.0,Maintain healthy lifestyle,No Alert
+7,105.0,72.0,0,0,32.3,0.305,24,0,20-30,Obese,1,Low Risk,Low Risk,58.89,31.97,0,11.0,Maintain healthy lifestyle,No Alert
+1,103.0,80.0,11,82,19.4,0.491,22,0,20-30,Normal,1,Low Risk,Low Risk,53.620000000000005,24.64,0,0.0,Maintain healthy lifestyle,No Alert
+1,101.0,50.0,15,36,24.2,0.526,26,0,20-30,Normal,1,Low Risk,Low Risk,55.46,27.2,0,0.0,Maintain healthy lifestyle,No Alert
+5,88.0,66.0,21,23,24.4,0.342,30,0,30-40,Normal,1,Low Risk,Low Risk,51.52,21.72,0,3.0,Maintain healthy lifestyle,No Alert
+8,176.0,90.0,34,300,33.7,0.467,58,1,50+,Obese,2,Medium Risk,Medium Risk,97.91,86.23,1,96.0,Immediate physician consultation,No Alert
+7,150.0,66.0,42,342,34.7,0.718,42,0,40-50,Obese,2,Medium Risk,Medium Risk,83.00999999999999,65.51,0,24.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+1,73.0,50.0,10,0,23.0,0.248,21,0,20-30,Normal,1,Low Risk,Low Risk,42.4,9.04,0,1.0,Maintain healthy lifestyle,No Alert
+7,187.0,68.0,39,304,37.7,0.254,41,1,40-50,Obese,0,High Risk,High Risk,98.41,86.93,1,90.0,Immediate physician consultation,Very High Glucose
+0,100.0,88.0,60,110,46.8,0.962,31,0,30-40,Obese,1,Low Risk,Low Risk,63.34,38.16,0,14.0,Maintain healthy lifestyle,Severe Obesity Risk
+0,146.0,82.0,0,0,40.5,1.781,44,0,40-50,Obese,2,Medium Risk,Medium Risk,83.75000000000001,66.54,0,25.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+0,105.0,64.0,41,142,41.5,0.173,22,0,20-30,Obese,1,Low Risk,Low Risk,61.05,34.97,0,14.0,Maintain healthy lifestyle,Severe Obesity Risk
+2,84.0,72.0,0,0,32.3,0.304,21,0,20-30,Obese,1,Low Risk,Low Risk,49.59,19.04,0,1.0,Maintain healthy lifestyle,No Alert
+8,133.0,72.0,0,0,32.9,0.27,39,1,30-40,Obese,2,Medium Risk,Medium Risk,74.77,54.05,1,86.0,Regular health checkup recommended,No Alert
+5,44.0,62.0,0,0,25.0,0.587,36,0,30-40,Overweight,1,Low Risk,Low Risk,35.9,0.0,0,6.0,Maintain healthy lifestyle,No Alert
+2,141.0,58.0,34,128,25.4,0.699,24,0,20-30,Overweight,1,Low Risk,Low Risk,71.22000000000001,49.12,0,9.0,Regular health checkup recommended,No Alert
+7,114.0,66.0,0,0,32.8,0.258,42,1,40-50,Obese,2,Medium Risk,Medium Risk,68.03999999999999,44.69,1,80.0,Regular health checkup recommended,No Alert
+5,99.0,74.0,27,0,29.0,0.203,32,0,30-40,Overweight,1,Low Risk,Low Risk,57.9,30.59,0,18.0,Maintain healthy lifestyle,No Alert
+0,109.0,88.0,30,0,32.5,0.855,38,1,30-40,Obese,1,Low Risk,Low Risk,64.75,40.12,1,76.0,Regular health checkup recommended,No Alert
+2,109.0,92.0,0,0,42.7,0.845,54,0,50+,Obese,2,Medium Risk,Medium Risk,72.61,51.05,0,25.0,Regular health checkup recommended,Severe Obesity Risk
+1,95.0,66.0,13,38,19.6,0.334,25,0,20-30,Normal,1,Low Risk,Low Risk,51.38,21.53,0,0.0,Maintain healthy lifestyle,No Alert
+4,146.0,85.0,27,100,28.9,0.189,27,0,20-30,Overweight,0,High Risk,High Risk,75.17,54.61,0,12.0,Regular health checkup recommended,No Alert
+2,100.0,66.0,20,90,32.9,0.867,28,1,20-30,Obese,1,Low Risk,Low Risk,58.27,31.11,1,64.0,Maintain healthy lifestyle,No Alert
+5,139.0,64.0,35,140,28.6,0.411,26,0,20-30,Overweight,0,High Risk,High Risk,71.98,50.17,0,14.0,Regular health checkup recommended,No Alert
+13,126.0,90.0,0,0,43.4,0.583,42,1,40-50,Obese,2,Medium Risk,Medium Risk,76.02,55.79,1,84.0,Regular health checkup recommended,Severe Obesity Risk
+4,129.0,86.0,20,270,35.1,0.231,23,0,20-30,Obese,1,Low Risk,Low Risk,69.03,46.07,0,6.0,Regular health checkup recommended,No Alert
+1,79.0,75.0,30,0,32.0,0.396,22,0,20-30,Obese,1,Low Risk,Low Risk,47.8,16.55,0,2.0,Maintain healthy lifestyle,No Alert
+1,117.0,48.0,20,0,24.7,0.14,22,0,20-30,Normal,1,Low Risk,Low Risk,60.81,34.64,0,3.0,Maintain healthy lifestyle,No Alert
+7,62.0,78.0,0,0,32.6,0.391,41,0,40-50,Obese,1,Low Risk,Low Risk,46.88,15.27,0,5.0,Maintain healthy lifestyle,No Alert
+5,95.0,72.0,33,0,37.7,0.37,27,0,20-30,Obese,1,Low Risk,Low Risk,57.41,29.91,0,5.0,Maintain healthy lifestyle,No Alert
+0,131.0,72.0,0,0,43.2,0.27,26,1,20-30,Obese,0,High Risk,High Risk,73.16000000000001,51.81,1,73.0,Regular health checkup recommended,Severe Obesity Risk
+2,112.0,66.0,22,0,25.0,0.307,24,0,20-30,Overweight,1,Low Risk,Low Risk,59.5,32.82,0,0.0,Maintain healthy lifestyle,No Alert
+3,113.0,44.0,13,0,22.4,0.14,22,0,20-30,Normal,1,Low Risk,Low Risk,58.52,31.46,0,3.0,Maintain healthy lifestyle,No Alert
+2,74.0,72.0,0,0,32.3,0.102,22,0,20-30,Obese,1,Low Risk,Low Risk,45.89,13.89,0,1.0,Maintain healthy lifestyle,No Alert
+7,83.0,78.0,26,71,29.3,0.767,36,0,30-40,Overweight,1,Low Risk,Low Risk,52.79,23.49,0,14.0,Maintain healthy lifestyle,No Alert
+0,101.0,65.0,28,0,24.6,0.237,22,0,20-30,Normal,1,Low Risk,Low Risk,54.38000000000001,25.7,0,0.0,Maintain healthy lifestyle,No Alert
+5,137.0,108.0,0,0,48.8,0.227,37,1,30-40,Obese,0,High Risk,High Risk,80.53999999999999,62.08,1,82.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+2,110.0,74.0,29,125,32.4,0.698,27,0,20-30,Obese,1,Low Risk,Low Risk,61.82,36.05,0,9.0,Maintain healthy lifestyle,No Alert
+13,106.0,72.0,54,0,36.6,0.178,45,0,40-50,Obese,2,Medium Risk,Medium Risk,66.88000000000001,43.08,1,59.0,Regular health checkup recommended,No Alert
+2,100.0,68.0,25,71,38.5,0.324,26,0,20-30,Obese,1,Low Risk,Low Risk,59.35,32.61,0,18.0,Maintain healthy lifestyle,No Alert
+15,136.0,70.0,32,110,37.1,0.153,43,1,40-50,Obese,2,Medium Risk,Medium Risk,78.43,59.14,1,71.0,Regular health checkup recommended,No Alert
+1,107.0,68.0,19,0,26.5,0.165,24,0,20-30,Overweight,1,Low Risk,Low Risk,57.95,30.66,0,0.0,Maintain healthy lifestyle,No Alert
+1,80.0,55.0,0,0,19.1,0.258,21,0,20-30,Normal,1,Low Risk,Low Risk,44.03,11.31,0,0.0,Maintain healthy lifestyle,No Alert
+4,123.0,80.0,15,176,32.0,0.443,34,0,30-40,Obese,1,Low Risk,Low Risk,69.0,46.03,0,22.0,Regular health checkup recommended,No Alert
+7,81.0,78.0,40,48,46.7,0.261,42,0,40-50,Obese,1,Low Risk,Low Risk,59.01,32.14,0,17.0,Maintain healthy lifestyle,Severe Obesity Risk
+4,134.0,72.0,0,0,23.8,0.277,60,1,50+,Normal,2,Medium Risk,Medium Risk,78.74000000000001,59.57,1,64.0,Regular health checkup recommended,No Alert
+2,142.0,82.0,18,64,24.7,0.761,21,0,20-30,Normal,1,Low Risk,Low Risk,70.51,48.13,0,8.0,Regular health checkup recommended,No Alert
+6,144.0,72.0,27,228,33.9,0.255,40,0,40-50,Obese,0,High Risk,High Risk,79.77,61.01,0,18.0,Lifestyle intervention and glucose monitoring,No Alert
+2,92.0,62.0,28,0,31.6,0.13,24,0,20-30,Obese,1,Low Risk,Low Risk,53.48,24.45,0,2.0,Maintain healthy lifestyle,No Alert
+1,71.0,48.0,18,76,20.4,0.323,22,0,20-30,Normal,1,Low Risk,Low Risk,41.120000000000005,7.26,0,1.0,Maintain healthy lifestyle,No Alert
+6,93.0,50.0,30,64,28.7,0.356,23,0,20-30,Overweight,1,Low Risk,Low Risk,52.71,23.38,0,2.0,Maintain healthy lifestyle,No Alert
+1,122.0,90.0,51,220,49.7,0.325,31,1,30-40,Obese,0,High Risk,High Risk,73.01,51.61,1,89.0,Regular health checkup recommended,Severe Obesity Risk
+1,163.0,72.0,0,0,39.0,1.222,33,1,30-40,Obese,0,High Risk,High Risk,86.80000000000001,70.78,1,96.0,Lifestyle intervention and glucose monitoring,No Alert
+1,151.0,60.0,0,0,26.1,0.179,22,0,20-30,Overweight,0,High Risk,High Risk,74.83,54.14,0,16.0,Regular health checkup recommended,No Alert
+0,125.0,96.0,0,0,22.5,0.262,21,0,20-30,Normal,1,Low Risk,Low Risk,63.05,37.76,0,4.0,Maintain healthy lifestyle,No Alert
+1,81.0,72.0,18,40,26.6,0.283,24,0,20-30,Overweight,1,Low Risk,Low Risk,47.58,16.24,0,0.0,Maintain healthy lifestyle,No Alert
+2,85.0,65.0,0,0,39.6,0.93,27,0,20-30,Obese,1,Low Risk,Low Risk,53.98,25.14,0,4.0,Maintain healthy lifestyle,No Alert
+1,126.0,56.0,29,152,28.7,0.801,21,0,20-30,Overweight,1,Low Risk,Low Risk,65.31,40.9,0,1.0,Regular health checkup recommended,No Alert
+1,96.0,122.0,0,0,22.4,0.207,27,0,20-30,Normal,1,Low Risk,Low Risk,53.220000000000006,24.09,0,3.0,Maintain healthy lifestyle,No Alert
+4,144.0,58.0,28,140,29.5,0.287,37,0,30-40,Overweight,0,High Risk,High Risk,77.55,57.92,0,14.0,Regular health checkup recommended,No Alert
+3,83.0,58.0,31,18,34.3,0.336,25,0,20-30,Obese,1,Low Risk,Low Risk,50.99,20.98,0,2.0,Maintain healthy lifestyle,No Alert
+0,95.0,85.0,25,36,37.4,0.247,24,1,20-30,Obese,1,Low Risk,Low Risk,56.42,28.54,1,66.0,Maintain healthy lifestyle,No Alert
+3,171.0,72.0,33,135,33.3,0.199,24,1,20-30,Obese,0,High Risk,High Risk,85.59,69.1,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+8,155.0,62.0,26,495,34.0,0.543,46,1,40-50,Obese,2,Medium Risk,Medium Risk,86.0,69.67,1,87.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+1,89.0,76.0,34,37,31.2,0.192,23,0,20-30,Obese,1,Low Risk,Low Risk,51.86,22.19,0,6.0,Maintain healthy lifestyle,No Alert
+4,76.0,62.0,0,0,34.0,0.391,25,0,20-30,Obese,1,Low Risk,Low Risk,48.1,16.97,0,5.0,Maintain healthy lifestyle,No Alert
+7,160.0,54.0,32,175,30.5,0.588,39,1,30-40,Obese,0,High Risk,High Risk,84.85000000000001,68.07,1,91.0,Lifestyle intervention and glucose monitoring,No Alert
+4,146.0,92.0,0,0,31.2,0.539,61,1,50+,Obese,2,Medium Risk,Medium Risk,86.06,69.75,1,57.0,Lifestyle intervention and glucose monitoring,No Alert
+5,124.0,74.0,0,0,34.0,0.22,38,1,30-40,Obese,2,Medium Risk,Medium Risk,71.2,49.09,0,41.0,Regular health checkup recommended,No Alert
+5,78.0,48.0,0,0,33.7,0.654,25,0,20-30,Obese,1,Low Risk,Low Risk,48.81,17.95,0,2.0,Maintain healthy lifestyle,No Alert
+4,97.0,60.0,23,0,28.2,0.443,22,0,20-30,Overweight,1,Low Risk,Low Risk,53.86000000000001,24.98,0,3.0,Maintain healthy lifestyle,No Alert
+4,99.0,76.0,15,51,23.2,0.223,21,0,20-30,Normal,1,Low Risk,Low Risk,52.86,23.59,0,1.0,Maintain healthy lifestyle,No Alert
+0,162.0,76.0,56,100,53.2,0.759,25,1,20-30,Obese,0,High Risk,High Risk,88.25999999999999,72.81,1,91.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+6,111.0,64.0,39,0,34.2,0.26,24,0,20-30,Obese,1,Low Risk,Low Risk,61.86,36.1,0,17.0,Maintain healthy lifestyle,No Alert
+2,107.0,74.0,30,100,33.6,0.404,23,0,20-30,Obese,1,Low Risk,Low Risk,59.78,33.21,0,8.0,Maintain healthy lifestyle,No Alert
+5,132.0,80.0,0,0,26.8,0.186,69,0,50+,Overweight,2,Medium Risk,Medium Risk,81.54,63.47,0,6.0,Lifestyle intervention and glucose monitoring,No Alert
+0,113.0,76.0,0,0,33.3,0.278,23,1,20-30,Obese,1,Low Risk,Low Risk,62.09,36.42,0,26.0,Maintain healthy lifestyle,No Alert
+1,88.0,30.0,42,99,55.0,0.496,26,1,20-30,Obese,1,Low Risk,Low Risk,59.5,32.82,1,72.0,Maintain healthy lifestyle,Severe Obesity Risk
+3,120.0,70.0,30,135,42.9,0.452,30,0,30-40,Obese,0,High Risk,High Risk,69.87,47.24,0,22.0,Regular health checkup recommended,Severe Obesity Risk
+1,118.0,58.0,36,94,33.3,0.261,23,0,20-30,Obese,1,Low Risk,Low Risk,64.09,39.2,0,20.0,Maintain healthy lifestyle,No Alert
+1,117.0,88.0,24,145,34.5,0.403,40,1,40-50,Obese,2,Medium Risk,Medium Risk,69.15,46.24,1,85.0,Regular health checkup recommended,No Alert
+0,105.0,84.0,0,0,27.9,0.741,62,1,50+,Overweight,2,Medium Risk,Medium Risk,68.97,45.99,1,71.0,Regular health checkup recommended,No Alert
+4,173.0,70.0,14,168,29.7,0.361,33,1,30-40,Overweight,0,High Risk,High Risk,88.01,72.47,1,88.0,Lifestyle intervention and glucose monitoring,No Alert
+9,122.0,56.0,0,0,33.3,1.114,33,1,30-40,Obese,1,Low Risk,Low Risk,68.69000000000001,45.6,1,80.0,Regular health checkup recommended,No Alert
+3,170.0,64.0,37,225,34.5,0.356,30,1,30-40,Obese,0,High Risk,High Risk,87.35,71.55,1,92.0,Lifestyle intervention and glucose monitoring,No Alert
+8,84.0,74.0,31,0,38.3,0.457,39,0,30-40,Obese,1,Low Risk,Low Risk,56.790000000000006,29.05,0,8.0,Maintain healthy lifestyle,No Alert
+2,96.0,68.0,13,49,21.1,0.647,26,0,20-30,Normal,1,Low Risk,Low Risk,52.53,23.13,0,2.0,Maintain healthy lifestyle,No Alert
+2,125.0,60.0,20,140,33.8,0.088,31,0,30-40,Obese,1,Low Risk,Low Risk,69.44,46.64,0,21.0,Regular health checkup recommended,No Alert
+0,100.0,70.0,26,50,30.8,0.597,21,0,20-30,Obese,1,Low Risk,Low Risk,55.54,27.31,0,2.0,Maintain healthy lifestyle,No Alert
+0,93.0,60.0,25,92,28.7,0.532,22,0,20-30,Overweight,1,Low Risk,Low Risk,52.41,22.96,0,2.0,Maintain healthy lifestyle,No Alert
+0,129.0,80.0,0,0,31.2,0.703,29,0,20-30,Obese,1,Low Risk,Low Risk,69.66,46.95,0,18.0,Regular health checkup recommended,No Alert
+5,105.0,72.0,29,325,36.9,0.159,28,0,20-30,Obese,1,Low Risk,Low Risk,61.47,35.56,0,28.0,Maintain healthy lifestyle,Critical Insulin Anomaly
+3,128.0,78.0,0,0,21.1,0.268,55,0,50+,Normal,2,Medium Risk,Medium Risk,74.03,53.02,0,22.0,Regular health checkup recommended,No Alert
+5,106.0,82.0,30,0,39.5,0.286,38,0,30-40,Obese,1,Low Risk,Low Risk,65.65,41.37,0,18.0,Regular health checkup recommended,No Alert
+2,108.0,52.0,26,63,32.5,0.318,22,0,20-30,Obese,1,Low Risk,Low Risk,59.55,32.89,0,5.0,Maintain healthy lifestyle,No Alert
+10,108.0,66.0,0,0,32.4,0.272,42,1,40-50,Obese,2,Medium Risk,Medium Risk,65.52,41.19,1,81.0,Regular health checkup recommended,No Alert
+4,154.0,62.0,31,284,32.8,0.237,23,0,20-30,Obese,0,High Risk,High Risk,78.34,59.02,0,40.0,Regular health checkup recommended,No Alert
+0,102.0,75.0,23,0,32.3,0.572,21,0,20-30,Obese,1,Low Risk,Low Risk,56.79,29.05,0,2.0,Maintain healthy lifestyle,No Alert
+9,57.0,80.0,37,0,32.8,0.096,41,0,40-50,Obese,1,Low Risk,Low Risk,44.94,12.57,0,8.0,Maintain healthy lifestyle,No Alert
+2,106.0,64.0,35,119,30.5,1.4,34,0,30-40,Obese,1,Low Risk,Low Risk,61.75,35.95,0,19.0,Maintain healthy lifestyle,No Alert
+5,147.0,78.0,0,0,33.7,0.218,65,0,50+,Obese,2,Medium Risk,Medium Risk,88.41000000000001,73.02,0,14.0,Lifestyle intervention and glucose monitoring,No Alert
+2,90.0,70.0,17,0,27.3,0.085,22,0,20-30,Overweight,1,Low Risk,Low Risk,50.79,20.71,0,0.0,Maintain healthy lifestyle,No Alert
+1,136.0,74.0,50,204,37.4,0.399,24,0,20-30,Obese,0,High Risk,High Risk,72.82000000000001,51.34,0,28.0,Regular health checkup recommended,No Alert
+4,114.0,65.0,0,0,21.9,0.432,37,0,30-40,Normal,1,Low Risk,Low Risk,63.27,38.06,0,5.0,Maintain healthy lifestyle,No Alert
+9,156.0,86.0,28,155,34.3,1.189,42,1,40-50,Obese,0,High Risk,High Risk,85.28999999999999,68.68,1,95.0,Lifestyle intervention and glucose monitoring,No Alert
+1,153.0,82.0,42,485,40.6,0.687,23,0,20-30,Obese,0,High Risk,High Risk,80.28,61.72,0,37.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Severe Obesity Risk
+8,188.0,78.0,0,0,47.9,0.137,43,1,40-50,Obese,0,High Risk,High Risk,102.47,92.57,1,93.0,Immediate physician consultation,Very High Glucose | Severe Obesity Risk
+7,152.0,88.0,44,0,50.0,0.337,36,1,30-40,Obese,0,High Risk,High Risk,86.60000000000001,70.5,1,89.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+2,99.0,52.0,15,94,24.6,0.637,21,0,20-30,Normal,1,Low Risk,Low Risk,53.28,24.17,0,0.0,Maintain healthy lifestyle,No Alert
+1,109.0,56.0,21,135,25.2,0.833,23,0,20-30,Overweight,1,Low Risk,Low Risk,58.06,30.82,0,1.0,Maintain healthy lifestyle,No Alert
+2,88.0,74.0,19,53,29.0,0.229,22,0,20-30,Overweight,1,Low Risk,Low Risk,50.50000000000001,20.3,0,2.0,Maintain healthy lifestyle,No Alert
+17,163.0,72.0,41,114,40.9,0.817,47,1,40-50,Obese,2,Medium Risk,Medium Risk,91.57,77.42,1,92.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+4,151.0,90.0,38,0,29.7,0.294,36,0,30-40,Overweight,0,High Risk,High Risk,80.11,61.48,0,19.0,Lifestyle intervention and glucose monitoring,No Alert
+7,102.0,74.0,40,105,37.2,0.204,45,0,40-50,Obese,2,Medium Risk,Medium Risk,65.46000000000001,41.11,0,26.0,Regular health checkup recommended,No Alert
+0,114.0,80.0,34,285,44.2,0.167,27,0,20-30,Obese,1,Low Risk,Low Risk,66.96,43.19,0,28.0,Regular health checkup recommended,Severe Obesity Risk
+2,100.0,64.0,23,0,29.7,0.368,21,0,20-30,Overweight,1,Low Risk,Low Risk,55.21,26.85,0,1.0,Maintain healthy lifestyle,No Alert
+0,131.0,88.0,0,0,31.6,0.743,32,1,30-40,Obese,1,Low Risk,Low Risk,71.48,49.48,0,41.0,Regular health checkup recommended,No Alert
+6,104.0,74.0,18,156,29.9,0.722,41,1,40-50,Overweight,1,Low Risk,Low Risk,62.87,37.51,1,69.0,Maintain healthy lifestyle,No Alert
+3,148.0,66.0,25,0,32.5,0.256,22,0,20-30,Obese,0,High Risk,High Risk,75.55,55.14,0,17.0,Regular health checkup recommended,No Alert
+4,120.0,68.0,0,0,29.6,0.709,34,0,30-40,Overweight,1,Low Risk,Low Risk,67.08,43.36,0,27.0,Regular health checkup recommended,No Alert
+4,110.0,66.0,0,0,31.9,0.471,29,0,20-30,Obese,1,Low Risk,Low Risk,62.27,36.67,0,13.0,Maintain healthy lifestyle,No Alert
+3,111.0,90.0,12,78,28.4,0.495,29,0,20-30,Overweight,1,Low Risk,Low Risk,61.620000000000005,35.77,0,9.0,Maintain healthy lifestyle,No Alert
+6,102.0,82.0,0,0,30.8,0.18,36,1,30-40,Obese,1,Low Risk,Low Risk,60.84,34.68,1,70.0,Maintain healthy lifestyle,No Alert
+6,134.0,70.0,23,130,35.4,0.542,29,1,20-30,Obese,0,High Risk,High Risk,72.92,51.48,1,67.0,Regular health checkup recommended,No Alert
+2,87.0,72.0,23,0,28.9,0.773,25,0,20-30,Overweight,1,Low Risk,Low Risk,50.970000000000006,20.96,0,2.0,Maintain healthy lifestyle,No Alert
+1,79.0,60.0,42,48,43.5,0.678,23,0,20-30,Obese,1,Low Risk,Low Risk,51.55,21.76,0,6.0,Maintain healthy lifestyle,Severe Obesity Risk
+2,75.0,64.0,24,55,29.7,0.37,33,0,30-40,Overweight,1,Low Risk,Low Risk,48.81,17.95,0,8.0,Maintain healthy lifestyle,No Alert
+8,179.0,72.0,42,130,32.7,0.719,36,1,30-40,Obese,0,High Risk,High Risk,92.21,78.31,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+6,85.0,78.0,0,0,31.2,0.382,42,0,40-50,Obese,1,Low Risk,Low Risk,55.96,27.9,0,9.0,Maintain healthy lifestyle,No Alert
+0,129.0,110.0,46,130,67.1,0.319,26,1,20-30,Obese,0,High Risk,High Risk,79.53,60.67,1,79.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+5,143.0,78.0,0,0,45.0,0.19,47,0,40-50,Obese,2,Medium Risk,Medium Risk,84.8,68.0,0,25.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+5,130.0,82.0,0,0,39.1,0.956,37,1,30-40,Obese,0,High Risk,High Risk,74.83,54.14,1,78.0,Regular health checkup recommended,No Alert
+6,87.0,80.0,0,0,23.2,0.084,32,0,30-40,Normal,1,Low Risk,Low Risk,51.36000000000001,21.5,0,1.0,Maintain healthy lifestyle,No Alert
+0,119.0,64.0,18,92,34.9,0.725,23,0,20-30,Obese,1,Low Risk,Low Risk,64.97,40.43,0,7.0,Regular health checkup recommended,No Alert
+1,117.0,74.0,20,23,27.7,0.299,21,0,20-30,Overweight,1,Low Risk,Low Risk,61.41,35.47,0,1.0,Maintain healthy lifestyle,No Alert
+5,73.0,60.0,0,0,26.8,0.268,27,0,20-30,Overweight,1,Low Risk,Low Risk,45.34,13.13,0,0.0,Maintain healthy lifestyle,No Alert
+4,141.0,74.0,0,0,27.6,0.244,40,0,40-50,Overweight,2,Medium Risk,Medium Risk,76.68,56.71,0,20.0,Regular health checkup recommended,No Alert
+7,194.0,68.0,28,0,35.9,0.745,41,1,40-50,Obese,0,High Risk,High Risk,100.67,90.07,1,88.0,Immediate physician consultation,Very High Glucose
+8,181.0,68.0,36,495,30.1,0.615,60,1,50+,Obese,2,Medium Risk,Medium Risk,99.43,88.35,1,94.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+1,128.0,98.0,41,58,32.0,1.321,33,1,30-40,Obese,1,Low Risk,Low Risk,70.7,48.39,0,42.0,Regular health checkup recommended,No Alert
+8,109.0,76.0,39,114,27.9,0.64,31,1,30-40,Overweight,1,Low Risk,Low Risk,61.27,35.28,1,70.0,Maintain healthy lifestyle,No Alert
+5,139.0,80.0,35,160,31.6,0.361,25,1,20-30,Obese,0,High Risk,High Risk,72.58,51.01,1,84.0,Regular health checkup recommended,No Alert
+3,111.0,62.0,0,0,22.6,0.142,21,0,20-30,Normal,1,Low Risk,Low Risk,57.48,30.01,0,8.0,Maintain healthy lifestyle,No Alert
+9,123.0,70.0,44,94,33.1,0.374,40,0,40-50,Obese,2,Medium Risk,Medium Risk,71.13,48.99,0,20.0,Regular health checkup recommended,No Alert
+7,159.0,66.0,0,0,30.4,0.383,36,1,30-40,Obese,0,High Risk,High Risk,83.52,66.22,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+11,135.0,72.0,0,0,52.3,0.578,40,1,40-50,Obese,0,High Risk,High Risk,81.69,63.68,1,89.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+8,85.0,55.0,20,0,24.4,0.136,42,0,40-50,Normal,1,Low Risk,Low Risk,53.92,25.06,0,3.0,Maintain healthy lifestyle,No Alert
+5,158.0,84.0,41,210,39.4,0.395,29,1,20-30,Obese,0,High Risk,High Risk,83.72,66.5,1,77.0,Lifestyle intervention and glucose monitoring,No Alert
+1,105.0,58.0,0,0,24.3,0.187,21,0,20-30,Normal,1,Low Risk,Low Risk,55.59,27.38,0,3.0,Maintain healthy lifestyle,No Alert
+3,107.0,62.0,13,48,22.9,0.678,23,1,20-30,Normal,1,Low Risk,Low Risk,56.57,28.74,1,59.0,Maintain healthy lifestyle,No Alert
+4,109.0,64.0,44,99,34.8,0.905,26,1,20-30,Obese,1,Low Risk,Low Risk,61.84,36.07,0,25.0,Maintain healthy lifestyle,No Alert
+4,148.0,60.0,27,318,30.9,0.15,29,1,20-30,Obese,0,High Risk,High Risk,77.17,57.39,0,39.0,Regular health checkup recommended,No Alert
+0,113.0,80.0,16,0,31.0,0.874,21,0,20-30,Obese,1,Low Risk,Low Risk,60.8,34.63,0,7.0,Maintain healthy lifestyle,No Alert
+1,138.0,82.0,0,0,40.1,0.236,28,0,20-30,Obese,0,High Risk,High Risk,75.63000000000001,55.25,0,14.0,Regular health checkup recommended,Severe Obesity Risk
+0,108.0,68.0,20,0,27.3,0.787,32,0,30-40,Overweight,1,Low Risk,Low Risk,60.99,34.89,0,13.0,Maintain healthy lifestyle,No Alert
+2,99.0,70.0,16,44,20.4,0.235,27,0,20-30,Normal,1,Low Risk,Low Risk,53.82,24.92,0,0.0,Maintain healthy lifestyle,No Alert
+6,103.0,72.0,32,190,37.7,0.324,55,0,50+,Obese,2,Medium Risk,Medium Risk,69.01,46.04,0,21.0,Regular health checkup recommended,No Alert
+5,111.0,72.0,28,0,23.9,0.407,27,0,20-30,Normal,1,Low Risk,Low Risk,59.67000000000001,33.06,0,3.0,Maintain healthy lifestyle,No Alert
+8,196.0,76.0,29,280,37.5,0.605,57,1,50+,Obese,2,Medium Risk,Medium Risk,106.75,98.53,1,93.0,Immediate physician consultation,Very High Glucose
+5,162.0,104.0,0,0,37.7,0.151,52,1,50+,Obese,2,Medium Risk,Medium Risk,91.71,77.61,1,83.0,Lifestyle intervention and glucose monitoring,No Alert
+1,96.0,64.0,27,87,33.2,0.289,21,0,20-30,Obese,1,Low Risk,Low Risk,54.66,26.09,0,1.0,Maintain healthy lifestyle,No Alert
+7,184.0,84.0,33,0,35.5,0.355,41,1,40-50,Obese,0,High Risk,High Risk,96.55,84.34,1,97.0,Immediate physician consultation,Very High Glucose
+2,81.0,60.0,22,0,27.7,0.29,25,0,20-30,Overweight,1,Low Risk,Low Risk,48.21,17.12,0,0.0,Maintain healthy lifestyle,No Alert
+0,147.0,85.0,54,0,42.8,0.375,24,0,20-30,Obese,0,High Risk,High Risk,78.84,59.71,0,24.0,Regular health checkup recommended,Severe Obesity Risk
+7,179.0,95.0,31,0,34.2,0.164,60,0,50+,Obese,2,Medium Risk,Medium Risk,99.86,88.94,1,78.0,Immediate physician consultation,No Alert
+0,140.0,65.0,26,130,42.6,0.431,24,1,20-30,Obese,0,High Risk,High Risk,75.98,55.74,1,77.0,Regular health checkup recommended,Severe Obesity Risk
+9,112.0,82.0,32,175,34.2,0.26,36,1,30-40,Obese,1,Low Risk,Low Risk,65.86,41.66,1,87.0,Regular health checkup recommended,No Alert
+12,151.0,70.0,40,271,41.8,0.742,38,1,30-40,Obese,0,High Risk,High Risk,84.34,67.36,1,64.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+5,109.0,62.0,41,129,35.8,0.514,25,1,20-30,Obese,1,Low Risk,Low Risk,61.84,36.07,1,73.0,Maintain healthy lifestyle,No Alert
+6,125.0,68.0,30,120,30.0,0.464,32,0,30-40,Obese,1,Low Risk,Low Risk,68.6,45.47,0,20.0,Regular health checkup recommended,No Alert
+5,85.0,74.0,22,0,29.0,1.224,32,1,30-40,Overweight,1,Low Risk,Low Risk,52.3,22.81,1,65.0,Maintain healthy lifestyle,No Alert
+5,112.0,66.0,0,0,37.8,0.261,41,1,40-50,Obese,2,Medium Risk,Medium Risk,68.44,45.25,1,82.0,Regular health checkup recommended,No Alert
+0,177.0,60.0,29,478,34.6,1.072,21,1,20-30,Obese,0,High Risk,High Risk,87.47999999999999,71.73,1,93.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+2,158.0,90.0,0,0,31.6,0.805,66,1,50+,Obese,2,Medium Risk,Medium Risk,92.48,78.68,1,86.0,Lifestyle intervention and glucose monitoring,No Alert
+7,119.0,72.0,0,0,25.2,0.209,37,0,30-40,Overweight,1,Low Risk,Low Risk,66.26,42.22,0,8.0,Regular health checkup recommended,No Alert
+7,142.0,60.0,33,190,28.8,0.687,61,0,50+,Overweight,2,Medium Risk,Medium Risk,83.74,66.53,0,23.0,Lifestyle intervention and glucose monitoring,No Alert
+1,100.0,66.0,15,56,23.6,0.666,26,0,20-30,Normal,1,Low Risk,Low Risk,54.88,26.39,0,2.0,Maintain healthy lifestyle,No Alert
+1,87.0,78.0,27,32,34.6,0.101,22,0,20-30,Obese,1,Low Risk,Low Risk,51.78000000000001,22.08,0,3.0,Maintain healthy lifestyle,No Alert
+0,101.0,76.0,0,0,35.7,0.198,26,0,20-30,Obese,1,Low Risk,Low Risk,58.91,32.0,0,5.0,Maintain healthy lifestyle,No Alert
+3,162.0,52.0,38,0,37.2,0.652,24,1,20-30,Obese,0,High Risk,High Risk,83.16,65.72,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+4,197.0,70.0,39,744,36.7,2.329,31,0,30-40,Obese,0,High Risk,High Risk,99.11,87.9,0,32.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+0,117.0,80.0,31,53,45.2,0.089,24,0,20-30,Obese,1,Low Risk,Low Risk,67.56,44.03,0,16.0,Regular health checkup recommended,Severe Obesity Risk
+4,142.0,86.0,0,0,44.0,0.645,22,1,20-30,Obese,0,High Risk,High Risk,76.6,56.6,1,80.0,Regular health checkup recommended,Severe Obesity Risk
+6,134.0,80.0,37,370,46.2,0.238,46,1,40-50,Obese,2,Medium Risk,Medium Risk,81.26,63.08,1,92.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Severe Obesity Risk
+1,79.0,80.0,25,37,25.4,0.583,22,0,20-30,Overweight,1,Low Risk,Low Risk,45.82,13.8,0,1.0,Maintain healthy lifestyle,No Alert
+4,122.0,68.0,0,0,35.0,0.394,29,0,20-30,Obese,1,Low Risk,Low Risk,68.0,44.64,0,11.0,Regular health checkup recommended,No Alert
+3,74.0,68.0,28,45,29.7,0.293,23,0,20-30,Overweight,1,Low Risk,Low Risk,45.41,13.22,0,2.0,Maintain healthy lifestyle,No Alert
+4,171.0,72.0,0,0,43.6,0.479,26,1,20-30,Obese,0,High Risk,High Risk,89.28,74.23,1,86.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+7,181.0,84.0,21,192,35.9,0.586,51,1,50+,Obese,2,Medium Risk,Medium Risk,98.47,87.01,1,97.0,Immediate physician consultation,Very High Glucose
+0,179.0,90.0,27,0,44.1,0.686,23,1,20-30,Obese,0,High Risk,High Risk,91.73000000000002,77.64,1,93.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+9,164.0,84.0,21,0,30.8,0.831,32,1,30-40,Obese,0,High Risk,High Risk,84.44,67.5,1,87.0,Lifestyle intervention and glucose monitoring,No Alert
+0,104.0,76.0,0,0,18.4,0.582,27,0,20-30,Underweight,1,Low Risk,Low Risk,55.220000000000006,26.87,0,2.0,Maintain healthy lifestyle,No Alert
+1,91.0,64.0,24,0,29.2,0.192,21,0,20-30,Overweight,1,Low Risk,Low Risk,51.46,21.64,0,0.0,Maintain healthy lifestyle,No Alert
+4,91.0,70.0,32,88,33.1,0.446,22,0,20-30,Obese,1,Low Risk,Low Risk,52.93,23.68,0,2.0,Maintain healthy lifestyle,No Alert
+3,139.0,54.0,0,0,25.6,0.402,22,1,20-30,Overweight,1,Low Risk,Low Risk,69.88,47.25,1,60.0,Regular health checkup recommended,No Alert
+6,119.0,50.0,22,176,27.1,1.318,33,1,30-40,Overweight,1,Low Risk,Low Risk,65.63000000000001,41.34,0,23.0,Regular health checkup recommended,No Alert
+2,146.0,76.0,35,194,38.2,0.329,29,0,20-30,Obese,0,High Risk,High Risk,78.56000000000002,59.32,1,60.0,Regular health checkup recommended,No Alert
+9,184.0,85.0,15,0,30.0,1.213,49,1,40-50,Obese,2,Medium Risk,Medium Risk,97.3,85.38,1,75.0,Immediate physician consultation,Very High Glucose
+10,122.0,68.0,0,0,31.2,0.258,41,0,40-50,Obese,2,Medium Risk,Medium Risk,70.46000000000001,48.06,0,37.0,Regular health checkup recommended,No Alert
+0,165.0,90.0,33,680,52.3,0.427,23,0,20-30,Obese,0,High Risk,High Risk,88.59,73.27,1,72.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Severe Obesity Risk
+9,124.0,70.0,33,402,35.4,0.282,34,0,30-40,Obese,1,Low Risk,Low Risk,70.42,48.0,0,15.0,Regular health checkup recommended,Critical Insulin Anomaly
+1,111.0,86.0,19,0,30.1,0.143,23,0,20-30,Obese,1,Low Risk,Low Risk,60.330000000000005,33.97,0,2.0,Maintain healthy lifestyle,No Alert
+9,106.0,52.0,0,0,31.2,0.38,42,0,40-50,Obese,2,Medium Risk,Medium Risk,64.36,39.58,0,14.0,Maintain healthy lifestyle,No Alert
+2,129.0,84.0,0,0,28.0,0.284,27,0,20-30,Overweight,1,Low Risk,Low Risk,68.1,44.78,0,7.0,Regular health checkup recommended,No Alert
+2,90.0,80.0,14,55,24.4,0.249,24,0,20-30,Normal,1,Low Risk,Low Risk,50.52,20.33,0,2.0,Maintain healthy lifestyle,No Alert
+0,86.0,68.0,32,0,35.8,0.238,25,0,20-30,Obese,1,Low Risk,Low Risk,52.64,23.28,0,6.0,Maintain healthy lifestyle,No Alert
+12,92.0,62.0,7,258,27.6,0.926,44,1,40-50,Overweight,1,Low Risk,Low Risk,58.28,31.12,1,79.0,Maintain healthy lifestyle,No Alert
+1,113.0,64.0,35,0,33.6,0.543,21,1,20-30,Obese,1,Low Risk,Low Risk,61.58,35.71,1,74.0,Maintain healthy lifestyle,No Alert
+3,111.0,56.0,39,0,30.1,0.557,30,0,30-40,Obese,1,Low Risk,Low Risk,62.43000000000001,36.89,0,13.0,Maintain healthy lifestyle,No Alert
+2,114.0,68.0,22,0,28.7,0.092,25,0,20-30,Overweight,1,Low Risk,Low Risk,61.71,35.89,0,1.0,Maintain healthy lifestyle,No Alert
+1,193.0,50.0,16,375,25.9,0.655,24,0,20-30,Overweight,0,High Risk,High Risk,92.17,78.25,1,58.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Very High Glucose
+11,155.0,76.0,28,150,33.3,1.353,51,1,50+,Obese,2,Medium Risk,Medium Risk,87.28999999999999,71.46,1,95.0,Lifestyle intervention and glucose monitoring,No Alert
+3,191.0,68.0,15,130,30.9,0.299,34,0,30-40,Obese,0,High Risk,High Risk,95.87,83.4,1,85.0,Immediate physician consultation,Very High Glucose
+3,141.0,72.0,0,0,30.0,0.761,27,1,20-30,Obese,0,High Risk,High Risk,73.5,52.29,1,86.0,Regular health checkup recommended,No Alert
+4,95.0,70.0,32,0,32.1,0.612,24,0,20-30,Obese,1,Low Risk,Low Risk,54.83,26.32,0,5.0,Maintain healthy lifestyle,No Alert
+3,142.0,80.0,15,0,32.4,0.2,63,0,50+,Obese,2,Medium Risk,Medium Risk,85.42000000000002,68.86,0,20.0,Lifestyle intervention and glucose monitoring,No Alert
+4,123.0,62.0,0,0,32.0,0.226,35,1,30-40,Obese,1,Low Risk,Low Risk,69.30000000000001,46.45,1,62.0,Regular health checkup recommended,No Alert
+5,96.0,74.0,18,67,33.6,0.997,43,0,40-50,Obese,2,Medium Risk,Medium Risk,61.38,35.43,0,13.0,Maintain healthy lifestyle,No Alert
+0,138.0,72.0,0,0,36.3,0.933,25,1,20-30,Obese,0,High Risk,High Risk,73.59,52.41,1,90.0,Regular health checkup recommended,No Alert
+2,128.0,64.0,42,0,40.0,1.101,24,0,20-30,Obese,0,High Risk,High Risk,70.4,47.98,0,19.0,Regular health checkup recommended,No Alert
+0,102.0,52.0,0,0,25.1,0.078,21,0,20-30,Overweight,1,Low Risk,Low Risk,54.63,26.05,0,6.0,Maintain healthy lifestyle,No Alert
+2,146.0,72.0,0,0,27.5,0.24,28,1,20-30,Overweight,0,High Risk,High Risk,75.05000000000001,54.44,1,79.0,Regular health checkup recommended,No Alert
+10,101.0,86.0,37,0,45.6,1.136,38,1,30-40,Obese,1,Low Risk,Low Risk,65.48,41.13,1,84.0,Regular health checkup recommended,Severe Obesity Risk
+2,108.0,62.0,32,56,25.2,0.128,21,0,20-30,Overweight,1,Low Risk,Low Risk,57.06,29.43,0,2.0,Maintain healthy lifestyle,No Alert
+3,122.0,78.0,0,0,23.0,0.254,40,0,40-50,Normal,2,Medium Risk,Medium Risk,67.7,44.22,0,1.0,Regular health checkup recommended,No Alert
+1,71.0,78.0,50,45,33.2,0.422,21,0,20-30,Obese,1,Low Risk,Low Risk,44.66,12.18,0,15.0,Maintain healthy lifestyle,No Alert
+13,106.0,70.0,0,0,34.2,0.251,52,0,50+,Obese,2,Medium Risk,Medium Risk,68.26,45.0,0,18.0,Regular health checkup recommended,No Alert
+2,100.0,70.0,52,57,40.5,0.677,25,0,20-30,Obese,1,Low Risk,Low Risk,59.65,33.03,0,6.0,Maintain healthy lifestyle,Severe Obesity Risk
+7,106.0,60.0,24,0,26.5,0.296,29,1,20-30,Overweight,1,Low Risk,Low Risk,59.05000000000001,32.19,0,8.0,Maintain healthy lifestyle,No Alert
+0,104.0,64.0,23,116,27.8,0.454,23,0,20-30,Overweight,1,Low Risk,Low Risk,56.84,29.12,0,2.0,Maintain healthy lifestyle,No Alert
+5,114.0,74.0,0,0,24.9,0.744,57,0,50+,Normal,2,Medium Risk,Medium Risk,70.17,47.66,0,6.0,Regular health checkup recommended,No Alert
+2,108.0,62.0,10,278,25.3,0.881,22,0,20-30,Overweight,1,Low Risk,Low Risk,57.39000000000001,29.88,0,9.0,Maintain healthy lifestyle,No Alert
+0,146.0,70.0,0,0,37.9,0.334,28,1,20-30,Obese,0,High Risk,High Risk,78.17000000000002,58.78,1,92.0,Regular health checkup recommended,No Alert
+10,129.0,76.0,28,122,35.9,0.28,39,0,30-40,Obese,2,Medium Risk,Medium Risk,74.07000000000001,53.08,0,25.0,Regular health checkup recommended,No Alert
+7,133.0,88.0,15,155,32.4,0.262,37,0,30-40,Obese,0,High Risk,High Risk,74.02,53.01,0,19.0,Regular health checkup recommended,No Alert
+7,161.0,86.0,0,0,30.4,0.165,47,1,40-50,Obese,2,Medium Risk,Medium Risk,87.62,71.92,1,91.0,Lifestyle intervention and glucose monitoring,No Alert
+2,108.0,80.0,0,0,27.0,0.259,52,1,50+,Overweight,2,Medium Risk,Medium Risk,66.9,43.11,1,69.0,Regular health checkup recommended,No Alert
+7,136.0,74.0,26,135,26.0,0.647,51,0,50+,Overweight,2,Medium Risk,Medium Risk,77.5,57.85,0,16.0,Regular health checkup recommended,No Alert
+5,155.0,84.0,44,545,38.7,0.619,34,0,30-40,Obese,0,High Risk,High Risk,83.81,66.62,0,30.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+1,119.0,86.0,39,220,45.6,0.808,29,1,20-30,Obese,0,High Risk,High Risk,69.98,47.39,1,78.0,Regular health checkup recommended,Severe Obesity Risk
+4,96.0,56.0,17,49,20.8,0.34,26,0,20-30,Normal,1,Low Risk,Low Risk,52.440000000000005,23.0,0,0.0,Maintain healthy lifestyle,No Alert
+5,108.0,72.0,43,75,36.1,0.263,33,0,30-40,Obese,1,Low Risk,Low Risk,63.93,38.98,0,15.0,Maintain healthy lifestyle,No Alert
+0,78.0,88.0,29,40,36.9,0.434,21,0,20-30,Obese,1,Low Risk,Low Risk,48.57,17.62,0,10.0,Maintain healthy lifestyle,No Alert
+0,107.0,62.0,30,74,36.6,0.757,25,1,20-30,Obese,1,Low Risk,Low Risk,61.28,35.29,1,68.0,Maintain healthy lifestyle,No Alert
+2,128.0,78.0,37,182,43.3,1.224,31,1,30-40,Obese,0,High Risk,High Risk,73.49,52.27,1,89.0,Regular health checkup recommended,Severe Obesity Risk
+1,128.0,48.0,45,194,40.5,0.613,24,1,20-30,Obese,0,High Risk,High Risk,70.55,48.19,1,73.0,Regular health checkup recommended,Severe Obesity Risk
+0,161.0,50.0,0,0,21.9,0.254,65,0,50+,Normal,2,Medium Risk,Medium Risk,90.47,75.89,0,24.0,Lifestyle intervention and glucose monitoring,No Alert
+6,151.0,62.0,31,120,35.5,0.692,28,0,20-30,Obese,0,High Risk,High Risk,79.45000000000002,60.56,0,24.0,Lifestyle intervention and glucose monitoring,No Alert
+2,146.0,70.0,38,360,28.0,0.337,29,1,20-30,Overweight,0,High Risk,High Risk,75.50000000000001,55.07,1,78.0,Regular health checkup recommended,Critical Insulin Anomaly
+0,126.0,84.0,29,215,30.7,0.52,24,0,20-30,Obese,1,Low Risk,Low Risk,66.81,42.98,0,9.0,Regular health checkup recommended,No Alert
+14,100.0,78.0,25,184,36.6,0.412,46,1,40-50,Obese,2,Medium Risk,Medium Risk,64.78,40.16,1,59.0,Regular health checkup recommended,No Alert
+8,112.0,72.0,0,0,23.6,0.84,58,0,50+,Normal,2,Medium Risk,Medium Risk,69.28,46.42,0,5.0,Regular health checkup recommended,No Alert
+0,167.0,72.0,0,0,32.3,0.839,30,1,30-40,Obese,0,High Risk,High Risk,85.49,68.96,1,87.0,Lifestyle intervention and glucose monitoring,No Alert
+2,144.0,58.0,33,135,31.6,0.422,25,1,20-30,Obese,0,High Risk,High Risk,74.58,53.79,1,85.0,Regular health checkup recommended,No Alert
+5,77.0,82.0,41,42,35.8,0.156,35,0,30-40,Obese,1,Low Risk,Low Risk,52.04,22.44,0,7.0,Maintain healthy lifestyle,No Alert
+5,115.0,98.0,0,0,52.9,0.209,28,1,20-30,Obese,0,High Risk,High Risk,70.27,47.8,1,83.0,Regular health checkup recommended,Severe Obesity Risk
+3,150.0,76.0,0,0,21.0,0.207,37,0,30-40,Normal,2,Medium Risk,Medium Risk,77.39999999999999,57.71,0,38.0,Regular health checkup recommended,No Alert
+2,120.0,76.0,37,105,39.7,0.215,29,0,20-30,Obese,1,Low Risk,Low Risk,68.61,45.49,0,26.0,Regular health checkup recommended,No Alert
+10,161.0,68.0,23,132,25.5,0.326,47,1,40-50,Overweight,2,Medium Risk,Medium Risk,86.15,69.88,1,82.0,Lifestyle intervention and glucose monitoring,No Alert
+0,137.0,68.0,14,148,24.8,0.143,21,0,20-30,Normal,1,Low Risk,Low Risk,68.54,45.39,0,17.0,Regular health checkup recommended,No Alert
+0,128.0,68.0,19,180,30.5,1.391,25,1,20-30,Obese,1,Low Risk,Low Risk,67.85,44.43,1,73.0,Regular health checkup recommended,No Alert
+2,124.0,68.0,28,205,32.9,0.875,30,1,30-40,Obese,1,Low Risk,Low Risk,68.47,45.29,0,32.0,Regular health checkup recommended,No Alert
+6,80.0,66.0,30,0,26.2,0.313,41,0,40-50,Overweight,1,Low Risk,Low Risk,52.16,22.61,0,8.0,Maintain healthy lifestyle,No Alert
+0,106.0,70.0,37,148,39.4,0.605,22,0,20-30,Obese,1,Low Risk,Low Risk,60.82000000000001,34.65,0,15.0,Maintain healthy lifestyle,No Alert
+2,155.0,74.0,17,96,26.6,0.433,27,1,20-30,Overweight,0,High Risk,High Risk,78.08,58.66,1,71.0,Regular health checkup recommended,No Alert
+3,113.0,50.0,10,85,29.5,0.626,25,0,20-30,Overweight,1,Low Risk,Low Risk,61.55,35.67,0,3.0,Maintain healthy lifestyle,No Alert
+7,109.0,80.0,31,0,35.9,1.127,43,1,40-50,Obese,2,Medium Risk,Medium Risk,67.27000000000001,43.62,1,75.0,Regular health checkup recommended,No Alert
+2,112.0,68.0,22,94,34.1,0.315,26,0,20-30,Obese,1,Low Risk,Low Risk,62.83,37.45,0,1.0,Maintain healthy lifestyle,No Alert
+3,99.0,80.0,11,64,19.3,0.284,30,0,30-40,Normal,1,Low Risk,Low Risk,54.39,25.71,0,2.0,Maintain healthy lifestyle,No Alert
+3,182.0,74.0,0,0,30.5,0.345,29,1,20-30,Obese,0,High Risk,High Risk,90.65,76.14,1,99.0,Lifestyle intervention and glucose monitoring,Very High Glucose
+3,115.0,66.0,39,140,38.1,0.15,28,0,20-30,Obese,1,Low Risk,Low Risk,65.83,41.62,0,5.0,Regular health checkup recommended,No Alert
+6,194.0,78.0,0,0,23.5,0.129,59,1,50+,Normal,2,Medium Risk,Medium Risk,102.35,92.41,1,88.0,Immediate physician consultation,Very High Glucose
+4,129.0,60.0,12,231,27.5,0.527,31,0,30-40,Overweight,1,Low Risk,Low Risk,69.15,46.24,0,9.0,Regular health checkup recommended,No Alert
+3,112.0,74.0,30,0,31.6,0.197,25,1,20-30,Obese,1,Low Risk,Low Risk,61.78,35.99,1,68.0,Maintain healthy lifestyle,No Alert
+0,124.0,70.0,20,0,27.4,0.254,36,1,30-40,Overweight,1,Low Risk,Low Risk,68.62,45.5,1,65.0,Regular health checkup recommended,No Alert
+13,152.0,90.0,33,29,26.8,0.731,43,1,40-50,Overweight,2,Medium Risk,Medium Risk,81.74000000000001,63.75,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+2,112.0,75.0,32,0,35.7,0.148,21,0,20-30,Obese,1,Low Risk,Low Risk,61.81,36.03,0,19.0,Maintain healthy lifestyle,No Alert
+1,157.0,72.0,21,168,25.6,0.123,24,0,20-30,Overweight,0,High Risk,High Risk,77.68,58.1,0,21.0,Regular health checkup recommended,No Alert
+1,122.0,64.0,32,156,35.1,0.692,30,1,30-40,Obese,1,Low Risk,Low Risk,68.33000000000001,45.1,1,75.0,Regular health checkup recommended,No Alert
+10,179.0,70.0,0,0,35.1,0.2,37,0,30-40,Obese,0,High Risk,High Risk,93.23,79.72,0,40.0,Lifestyle intervention and glucose monitoring,No Alert
+2,102.0,86.0,36,120,45.5,0.127,23,1,20-30,Obese,1,Low Risk,Low Risk,61.35,35.39,1,70.0,Maintain healthy lifestyle,Severe Obesity Risk
+6,105.0,70.0,32,68,30.8,0.122,37,0,30-40,Obese,1,Low Risk,Low Risk,62.34,36.77,0,16.0,Maintain healthy lifestyle,No Alert
+8,118.0,72.0,19,0,23.1,1.476,46,0,40-50,Normal,2,Medium Risk,Medium Risk,67.93,44.54,0,15.0,Regular health checkup recommended,No Alert
+2,87.0,58.0,16,52,32.7,0.166,25,0,20-30,Obese,1,Low Risk,Low Risk,52.11000000000001,22.54,0,0.0,Maintain healthy lifestyle,No Alert
+1,180.0,72.0,0,0,43.3,0.282,41,1,40-50,Obese,0,High Risk,High Risk,97.29,85.37,1,88.0,Immediate physician consultation,Severe Obesity Risk
+12,106.0,80.0,0,0,23.6,0.137,44,0,40-50,Normal,2,Medium Risk,Medium Risk,62.68000000000001,37.24,0,1.0,Maintain healthy lifestyle,No Alert
+1,95.0,60.0,18,58,23.9,0.26,22,0,20-30,Normal,1,Low Risk,Low Risk,51.77,22.07,0,0.0,Maintain healthy lifestyle,No Alert
+0,165.0,76.0,43,255,47.9,0.259,26,0,20-30,Obese,0,High Risk,High Risk,88.17,72.69,1,85.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+0,117.0,72.0,0,0,33.8,0.932,44,0,40-50,Obese,2,Medium Risk,Medium Risk,70.14,47.62,0,28.0,Regular health checkup recommended,No Alert
+5,115.0,76.0,0,0,31.2,0.343,44,1,40-50,Obese,2,Medium Risk,Medium Risk,68.56,45.42,1,80.0,Regular health checkup recommended,No Alert
+9,152.0,78.0,34,171,34.2,0.893,33,1,30-40,Obese,0,High Risk,High Risk,80.96000000000001,62.66,1,90.0,Lifestyle intervention and glucose monitoring,No Alert
+7,178.0,84.0,0,0,39.9,0.331,41,1,40-50,Obese,0,High Risk,High Risk,95.47,82.84,1,98.0,Immediate physician consultation,No Alert
+1,130.0,70.0,13,105,25.9,0.472,22,0,20-30,Overweight,1,Low Risk,Low Risk,66.36999999999999,42.37,0,1.0,Regular health checkup recommended,No Alert
+1,95.0,74.0,21,73,25.9,0.673,36,0,30-40,Overweight,1,Low Risk,Low Risk,56.56999999999999,28.74,0,2.0,Maintain healthy lifestyle,No Alert
+1,117.0,68.0,35,0,32.0,0.389,22,0,20-30,Obese,1,Low Risk,Low Risk,63.00000000000001,37.69,0,20.0,Maintain healthy lifestyle,No Alert
+5,122.0,86.0,0,0,34.7,0.29,33,0,30-40,Obese,1,Low Risk,Low Risk,69.11000000000001,46.18,0,17.0,Regular health checkup recommended,No Alert
+8,95.0,72.0,0,0,36.8,0.485,57,0,50+,Obese,2,Medium Risk,Medium Risk,66.14,42.05,0,15.0,Regular health checkup recommended,No Alert
+8,126.0,88.0,36,108,38.5,0.349,49,0,40-50,Obese,2,Medium Risk,Medium Risk,76.65,56.67,1,58.0,Regular health checkup recommended,No Alert
+1,139.0,46.0,19,83,28.7,0.654,22,0,20-30,Overweight,1,Low Risk,Low Risk,70.81,48.55,0,13.0,Regular health checkup recommended,No Alert
+3,116.0,72.0,0,0,23.5,0.187,23,0,20-30,Normal,1,Low Risk,Low Risk,60.35,34.0,0,11.0,Maintain healthy lifestyle,No Alert
+3,99.0,62.0,19,74,21.8,0.279,26,0,20-30,Normal,1,Low Risk,Low Risk,53.94,25.09,0,3.0,Maintain healthy lifestyle,No Alert
+5,117.0,80.0,32,0,41.0,0.346,37,1,30-40,Obese,1,Low Risk,Low Risk,70.2,47.7,1,80.0,Regular health checkup recommended,Severe Obesity Risk
+4,92.0,80.0,0,0,42.2,0.237,29,0,20-30,Obese,1,Low Risk,Low Risk,58.16000000000001,30.96,0,5.0,Maintain healthy lifestyle,Severe Obesity Risk
+4,137.0,84.0,0,0,31.2,0.252,30,0,30-40,Obese,0,High Risk,High Risk,73.16,51.81,0,38.0,Regular health checkup recommended,No Alert
+3,61.0,82.0,28,0,34.4,0.243,46,0,40-50,Obese,1,Low Risk,Low Risk,48.52,17.55,0,8.0,Maintain healthy lifestyle,No Alert
+1,90.0,62.0,12,43,27.2,0.58,24,0,20-30,Overweight,1,Low Risk,Low Risk,51.36,21.5,0,1.0,Maintain healthy lifestyle,No Alert
+3,90.0,78.0,0,0,42.7,0.559,21,0,20-30,Obese,1,Low Risk,Low Risk,55.11,26.71,0,7.0,Maintain healthy lifestyle,Severe Obesity Risk
+9,165.0,88.0,0,0,30.4,0.302,49,1,40-50,Obese,2,Medium Risk,Medium Risk,89.82000000000001,74.98,1,77.0,Lifestyle intervention and glucose monitoring,No Alert
+1,125.0,50.0,40,167,33.3,0.962,28,1,20-30,Obese,1,Low Risk,Low Risk,68.39,45.18,1,67.0,Regular health checkup recommended,No Alert
+13,129.0,72.0,30,0,39.9,0.569,44,1,40-50,Obese,2,Medium Risk,Medium Risk,76.77,56.83,1,91.0,Regular health checkup recommended,No Alert
+12,88.0,74.0,40,54,35.3,0.378,48,0,40-50,Obese,2,Medium Risk,Medium Risk,60.19,33.78,0,16.0,Maintain healthy lifestyle,No Alert
+1,196.0,76.0,36,249,36.5,0.875,29,1,20-30,Obese,0,High Risk,High Risk,98.05,86.43,1,98.0,Immediate physician consultation,Very High Glucose
+5,189.0,64.0,33,325,31.2,0.583,29,1,20-30,Obese,0,High Risk,High Risk,93.66,80.32,1,90.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+5,158.0,70.0,0,0,29.8,0.207,63,0,50+,Overweight,2,Medium Risk,Medium Risk,91.04,76.68,0,23.0,Lifestyle intervention and glucose monitoring,No Alert
+5,103.0,108.0,37,0,39.2,0.305,65,0,50+,Obese,2,Medium Risk,Medium Risk,72.46000000000001,50.84,0,16.0,Regular health checkup recommended,No Alert
+4,146.0,78.0,0,0,38.5,0.52,67,1,50+,Obese,2,Medium Risk,Medium Risk,90.05,75.3,1,73.0,Lifestyle intervention and glucose monitoring,No Alert
+4,147.0,74.0,25,293,34.9,0.385,30,0,30-40,Obese,0,High Risk,High Risk,78.27000000000001,58.92,0,20.0,Regular health checkup recommended,No Alert
+5,99.0,54.0,28,83,34.0,0.499,30,0,30-40,Obese,1,Low Risk,Low Risk,58.8,31.85,0,5.0,Maintain healthy lifestyle,No Alert
+6,124.0,72.0,0,0,27.6,0.368,29,1,20-30,Overweight,1,Low Risk,Low Risk,66.58,42.66,0,27.0,Regular health checkup recommended,No Alert
+0,101.0,64.0,17,0,21.0,0.252,21,0,20-30,Normal,1,Low Risk,Low Risk,53.0,23.78,0,0.0,Maintain healthy lifestyle,No Alert
+3,81.0,86.0,16,66,27.5,0.306,22,0,20-30,Overweight,1,Low Risk,Low Risk,47.25,15.78,0,2.0,Maintain healthy lifestyle,No Alert
+1,133.0,102.0,28,140,32.8,0.234,45,1,40-50,Obese,2,Medium Risk,Medium Risk,76.53999999999999,56.52,1,87.0,Regular health checkup recommended,No Alert
+3,173.0,82.0,48,465,38.4,2.137,25,1,20-30,Obese,0,High Risk,High Risk,88.22,72.76,1,88.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+0,118.0,64.0,23,89,32.3,1.731,21,0,20-30,Obese,1,Low Risk,Low Risk,63.19,37.95,0,4.0,Maintain healthy lifestyle,No Alert
+0,84.0,64.0,22,66,35.8,0.545,21,0,20-30,Obese,1,Low Risk,Low Risk,50.64,20.5,0,1.0,Maintain healthy lifestyle,No Alert
+2,105.0,58.0,40,94,34.9,0.225,25,0,20-30,Obese,1,Low Risk,Low Risk,59.97,33.47,0,8.0,Maintain healthy lifestyle,No Alert
+2,122.0,52.0,43,158,36.2,0.816,28,0,20-30,Obese,1,Low Risk,Low Risk,68.06,44.72,0,15.0,Regular health checkup recommended,No Alert
+12,140.0,82.0,43,325,39.2,0.528,58,1,50+,Obese,2,Medium Risk,Medium Risk,85.16,68.5,1,91.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+0,98.0,82.0,15,84,25.2,0.299,22,0,20-30,Overweight,1,Low Risk,Low Risk,53.36000000000001,24.28,0,0.0,Maintain healthy lifestyle,No Alert
+1,87.0,60.0,37,75,37.2,0.509,22,0,20-30,Obese,1,Low Risk,Low Risk,52.56000000000001,23.17,0,2.0,Maintain healthy lifestyle,No Alert
+4,156.0,75.0,0,0,48.3,0.238,32,1,30-40,Obese,0,High Risk,High Risk,86.49,70.35,1,99.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+0,93.0,100.0,39,72,43.4,1.021,35,0,30-40,Obese,1,Low Risk,Low Risk,60.72,34.52,0,7.0,Maintain healthy lifestyle,Severe Obesity Risk
+1,107.0,72.0,30,82,30.8,0.821,24,0,20-30,Obese,1,Low Risk,Low Risk,59.24000000000001,32.46,0,10.0,Maintain healthy lifestyle,No Alert
+0,105.0,68.0,22,0,20.0,0.236,22,0,20-30,Normal,1,Low Risk,Low Risk,54.6,26.0,0,0.0,Maintain healthy lifestyle,No Alert
+1,109.0,60.0,8,182,25.4,0.947,21,0,20-30,Overweight,1,Low Risk,Low Risk,57.52,30.07,0,2.0,Maintain healthy lifestyle,No Alert
+1,90.0,62.0,18,59,25.1,1.268,25,0,20-30,Overweight,1,Low Risk,Low Risk,51.03,21.04,0,1.0,Maintain healthy lifestyle,No Alert
+1,125.0,70.0,24,110,24.3,0.221,25,0,20-30,Normal,1,Low Risk,Low Risk,64.78999999999999,40.18,0,0.0,Regular health checkup recommended,No Alert
+1,119.0,54.0,13,50,22.3,0.205,24,0,20-30,Normal,1,Low Risk,Low Risk,61.49,35.59,0,3.0,Maintain healthy lifestyle,No Alert
+5,116.0,74.0,29,0,32.3,0.66,35,1,30-40,Obese,1,Low Risk,Low Risk,66.59,42.68,1,84.0,Regular health checkup recommended,No Alert
+8,105.0,100.0,36,0,43.3,0.239,45,1,40-50,Obese,2,Medium Risk,Medium Risk,68.49,45.32,1,62.0,Regular health checkup recommended,Severe Obesity Risk
+5,144.0,82.0,26,285,32.0,0.452,58,1,50+,Obese,2,Medium Risk,Medium Risk,84.6,67.72,1,76.0,Lifestyle intervention and glucose monitoring,No Alert
+3,100.0,68.0,23,81,31.6,0.949,28,0,20-30,Obese,1,Low Risk,Low Risk,57.88,30.57,0,28.0,Maintain healthy lifestyle,No Alert
+1,100.0,66.0,29,196,32.0,0.444,42,0,40-50,Obese,1,Low Risk,Low Risk,62.2,36.57,0,17.0,Maintain healthy lifestyle,No Alert
+5,166.0,76.0,0,0,45.7,0.34,27,1,20-30,Obese,0,High Risk,High Risk,88.21000000000001,72.74,1,92.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+1,131.0,64.0,14,415,23.7,0.389,21,0,20-30,Normal,1,Low Risk,Low Risk,65.81,41.59,0,11.0,Regular health checkup recommended,Critical Insulin Anomaly
+4,116.0,72.0,12,87,22.1,0.463,37,0,30-40,Normal,1,Low Risk,Low Risk,64.13000000000001,39.26,0,2.0,Maintain healthy lifestyle,No Alert
+4,158.0,78.0,0,0,32.9,0.803,31,1,30-40,Obese,0,High Risk,High Risk,82.37,64.62,1,98.0,Lifestyle intervention and glucose monitoring,No Alert
+2,127.0,58.0,24,275,27.7,1.6,25,0,20-30,Overweight,1,Low Risk,Low Risk,66.61,42.71,0,1.0,Regular health checkup recommended,No Alert
+3,96.0,56.0,34,115,24.7,0.944,39,0,30-40,Normal,1,Low Risk,Low Risk,57.510000000000005,30.05,0,4.0,Maintain healthy lifestyle,No Alert
+0,131.0,66.0,40,0,34.3,0.196,22,1,20-30,Obese,1,Low Risk,Low Risk,69.29,46.43,1,78.0,Regular health checkup recommended,No Alert
+3,82.0,70.0,0,0,21.1,0.389,25,0,20-30,Normal,1,Low Risk,Low Risk,46.63,14.92,0,0.0,Maintain healthy lifestyle,No Alert
+3,193.0,70.0,31,0,34.9,0.241,25,1,20-30,Obese,0,High Risk,High Risk,95.17,82.42,1,75.0,Immediate physician consultation,Very High Glucose
+4,95.0,64.0,0,0,32.0,0.161,31,1,30-40,Obese,1,Low Risk,Low Risk,56.9,29.2,1,66.0,Maintain healthy lifestyle,No Alert
+6,137.0,61.0,0,0,24.2,0.151,55,0,50+,Normal,2,Medium Risk,Medium Risk,78.56,59.32,0,15.0,Regular health checkup recommended,No Alert
+5,136.0,84.0,41,88,35.0,0.286,35,1,30-40,Obese,0,High Risk,High Risk,75.4,54.93,0,43.0,Regular health checkup recommended,No Alert
+9,72.0,78.0,25,0,31.6,0.28,38,0,30-40,Obese,1,Low Risk,Low Risk,49.68,19.16,0,4.0,Maintain healthy lifestyle,No Alert
+5,168.0,64.0,0,0,32.9,0.135,41,1,40-50,Obese,0,High Risk,High Risk,89.37,74.36,1,90.0,Lifestyle intervention and glucose monitoring,No Alert
+2,123.0,48.0,32,165,42.1,0.52,26,0,20-30,Obese,0,High Risk,High Risk,69.63000000000001,46.91,0,16.0,Regular health checkup recommended,Severe Obesity Risk
+4,115.0,72.0,0,0,28.9,0.376,46,1,40-50,Overweight,2,Medium Risk,Medium Risk,68.47,45.29,1,74.0,Regular health checkup recommended,No Alert
+0,101.0,62.0,0,0,21.9,0.336,25,0,20-30,Normal,1,Low Risk,Low Risk,54.470000000000006,25.82,0,4.0,Maintain healthy lifestyle,No Alert
+8,197.0,74.0,0,0,25.9,1.191,39,1,30-40,Overweight,0,High Risk,High Risk,98.27,86.73,1,80.0,Immediate physician consultation,Very High Glucose
+1,172.0,68.0,49,579,42.4,0.702,28,1,20-30,Obese,0,High Risk,High Risk,89.92,75.12,1,95.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Severe Obesity Risk
+6,102.0,90.0,39,0,35.7,0.674,28,0,20-30,Obese,1,Low Risk,Low Risk,59.91,33.39,0,22.0,Maintain healthy lifestyle,No Alert
+1,112.0,72.0,30,176,34.4,0.528,25,0,20-30,Obese,1,Low Risk,Low Risk,62.620000000000005,37.16,0,8.0,Maintain healthy lifestyle,No Alert
+1,143.0,84.0,23,310,42.4,1.076,22,0,20-30,Obese,0,High Risk,High Risk,76.52,56.49,0,11.0,Regular health checkup recommended,Severe Obesity Risk
+1,143.0,74.0,22,61,26.2,0.256,21,0,20-30,Overweight,1,Low Risk,Low Risk,71.36,49.31,0,3.0,Regular health checkup recommended,No Alert
+0,138.0,60.0,35,167,34.6,0.534,21,1,20-30,Obese,0,High Risk,High Risk,71.88,50.03,1,86.0,Regular health checkup recommended,No Alert
+3,173.0,84.0,33,474,35.7,0.258,22,1,20-30,Obese,0,High Risk,High Risk,86.50999999999999,70.38,1,80.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+1,97.0,68.0,21,0,27.2,1.095,22,0,20-30,Overweight,1,Low Risk,Low Risk,53.56000000000001,24.56,0,0.0,Maintain healthy lifestyle,No Alert
+4,144.0,82.0,32,0,38.5,0.554,37,1,30-40,Obese,0,High Risk,High Risk,80.25,61.67,1,54.0,Lifestyle intervention and glucose monitoring,No Alert
+1,83.0,68.0,0,0,18.2,0.624,27,0,20-30,Underweight,1,Low Risk,Low Risk,46.760000000000005,15.1,0,0.0,Maintain healthy lifestyle,No Alert
+3,129.0,64.0,29,115,26.4,0.219,28,1,20-30,Overweight,1,Low Risk,Low Risk,67.92,44.53,0,11.0,Regular health checkup recommended,No Alert
+1,119.0,88.0,41,170,45.3,0.507,26,0,20-30,Obese,0,High Risk,High Risk,68.99,46.02,0,18.0,Regular health checkup recommended,Severe Obesity Risk
+2,94.0,68.0,18,76,26.0,0.561,21,0,20-30,Overweight,1,Low Risk,Low Risk,51.7,21.97,0,1.0,Maintain healthy lifestyle,No Alert
+0,102.0,64.0,46,78,40.6,0.496,21,0,20-30,Obese,1,Low Risk,Low Risk,59.28,32.51,0,7.0,Maintain healthy lifestyle,Severe Obesity Risk
+2,115.0,64.0,22,0,30.8,0.421,21,0,20-30,Obese,1,Low Risk,Low Risk,61.54,35.66,0,0.0,Maintain healthy lifestyle,No Alert
+8,151.0,78.0,32,210,42.9,0.516,36,1,30-40,Obese,0,High Risk,High Risk,84.07000000000001,66.99,1,76.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+4,184.0,78.0,39,277,37.0,0.264,31,1,30-40,Obese,0,High Risk,High Risk,94.0,80.8,1,79.0,Immediate physician consultation,Very High Glucose
+0,94.0,72.0,0,0,32.3,0.256,25,0,20-30,Obese,1,Low Risk,Low Risk,54.79,26.27,0,3.0,Maintain healthy lifestyle,No Alert
+1,181.0,64.0,30,180,34.1,0.328,38,1,30-40,Obese,0,High Risk,High Risk,94.03000000000002,80.84,1,92.0,Immediate physician consultation,Very High Glucose
+0,135.0,94.0,46,145,40.6,0.284,26,0,20-30,Obese,0,High Risk,High Risk,73.98,52.96,1,58.0,Regular health checkup recommended,Severe Obesity Risk
+1,95.0,82.0,25,180,35.0,0.233,43,1,40-50,Obese,2,Medium Risk,Medium Risk,61.4,35.46,1,81.0,Maintain healthy lifestyle,No Alert
+2,99.0,72.0,0,0,22.2,0.108,23,0,20-30,Normal,1,Low Risk,Low Risk,53.16,24.0,0,2.0,Maintain healthy lifestyle,No Alert
+3,89.0,74.0,16,85,30.4,0.551,38,0,30-40,Obese,1,Low Risk,Low Risk,56.12,28.12,0,5.0,Maintain healthy lifestyle,No Alert
+1,80.0,74.0,11,60,30.0,0.527,22,0,20-30,Obese,1,Low Risk,Low Risk,47.6,16.27,0,0.0,Maintain healthy lifestyle,No Alert
+2,139.0,75.0,0,0,25.6,0.167,29,0,20-30,Overweight,1,Low Risk,Low Risk,71.98,50.17,0,10.0,Regular health checkup recommended,No Alert
+1,90.0,68.0,8,0,24.5,1.138,36,0,30-40,Normal,1,Low Risk,Low Risk,54.15,25.38,0,1.0,Maintain healthy lifestyle,No Alert
+0,141.0,72.0,0,0,42.4,0.205,29,1,20-30,Obese,0,High Risk,High Risk,77.82000000000001,58.3,1,89.0,Regular health checkup recommended,Severe Obesity Risk
+12,140.0,85.0,33,0,37.4,0.244,41,0,40-50,Obese,2,Medium Risk,Medium Risk,79.52,60.66,1,69.0,Lifestyle intervention and glucose monitoring,No Alert
+5,147.0,75.0,0,0,29.9,0.434,28,0,20-30,Overweight,0,High Risk,High Risk,76.17000000000002,56.0,1,60.0,Regular health checkup recommended,No Alert
+1,97.0,70.0,15,0,18.2,0.147,21,0,20-30,Underweight,1,Low Risk,Low Risk,50.56,20.39,0,0.0,Maintain healthy lifestyle,No Alert
+6,107.0,88.0,0,0,36.8,0.727,31,0,30-40,Obese,1,Low Risk,Low Risk,63.14,37.88,0,6.0,Maintain healthy lifestyle,No Alert
+0,189.0,104.0,25,0,34.3,0.435,41,1,40-50,Obese,0,High Risk,High Risk,98.19,86.62,1,58.0,Immediate physician consultation,Very High Glucose
+2,83.0,66.0,23,50,32.2,0.497,22,0,20-30,Obese,1,Low Risk,Low Risk,49.46,18.86,0,4.0,Maintain healthy lifestyle,No Alert
+4,117.0,64.0,27,120,33.2,0.23,24,0,20-30,Obese,1,Low Risk,Low Risk,63.96000000000001,39.02,0,5.0,Maintain healthy lifestyle,No Alert
+8,108.0,70.0,0,0,30.5,0.955,33,1,30-40,Obese,1,Low Risk,Low Risk,62.25,36.64,1,90.0,Maintain healthy lifestyle,No Alert
+4,117.0,62.0,12,0,29.7,0.38,30,1,30-40,Overweight,1,Low Risk,Low Risk,64.71000000000001,40.06,1,74.0,Regular health checkup recommended,No Alert
+0,180.0,78.0,63,14,59.4,2.42,25,1,20-30,Obese,0,High Risk,High Risk,97.32,85.41,1,85.0,Immediate physician consultation,Severe Obesity Risk
+1,100.0,72.0,12,70,25.3,0.658,28,0,20-30,Overweight,1,Low Risk,Low Risk,55.99,27.94,0,0.0,Maintain healthy lifestyle,No Alert
+0,95.0,80.0,45,92,36.5,0.33,26,0,20-30,Obese,1,Low Risk,Low Risk,56.75,28.99,0,21.0,Maintain healthy lifestyle,No Alert
+0,104.0,64.0,37,64,33.6,0.51,22,1,20-30,Obese,1,Low Risk,Low Risk,58.28,31.12,1,71.0,Maintain healthy lifestyle,No Alert
+0,120.0,74.0,18,63,30.5,0.285,26,0,20-30,Obese,1,Low Risk,Low Risk,64.95,40.4,0,10.0,Regular health checkup recommended,No Alert
+1,82.0,64.0,13,95,21.2,0.415,23,0,20-30,Normal,1,Low Risk,Low Risk,46.06,14.13,0,2.0,Maintain healthy lifestyle,No Alert
+2,134.0,70.0,0,0,28.9,0.542,23,1,20-30,Overweight,1,Low Risk,Low Risk,69.17,46.27,1,71.0,Regular health checkup recommended,No Alert
+0,91.0,68.0,32,210,39.9,0.381,25,0,20-30,Obese,1,Low Risk,Low Risk,55.87,27.77,0,13.0,Maintain healthy lifestyle,No Alert
+2,119.0,72.0,0,0,19.6,0.832,72,0,50+,Normal,2,Medium Risk,Medium Risk,75.08,54.48,0,8.0,Regular health checkup recommended,No Alert
+2,100.0,54.0,28,105,37.8,0.498,24,0,20-30,Obese,1,Low Risk,Low Risk,58.53999999999999,31.48,0,3.0,Maintain healthy lifestyle,No Alert
+14,175.0,62.0,30,0,33.6,0.212,38,1,30-40,Obese,0,High Risk,High Risk,91.48,77.29,1,84.0,Lifestyle intervention and glucose monitoring,No Alert
+1,135.0,54.0,0,0,26.7,0.687,62,0,50+,Overweight,2,Medium Risk,Medium Risk,80.61,62.17,0,14.0,Lifestyle intervention and glucose monitoring,No Alert
+5,86.0,68.0,28,71,30.2,0.364,24,0,20-30,Obese,1,Low Risk,Low Risk,50.66,20.53,0,2.0,Maintain healthy lifestyle,No Alert
+10,148.0,84.0,48,237,37.6,1.001,51,1,50+,Obese,2,Medium Risk,Medium Risk,85.78,69.36,1,98.0,Lifestyle intervention and glucose monitoring,No Alert
+9,134.0,74.0,33,60,25.9,0.46,81,0,50+,Overweight,2,Medium Risk,Medium Risk,85.67,69.21,0,14.0,Lifestyle intervention and glucose monitoring,No Alert
+9,120.0,72.0,22,56,20.8,0.733,48,0,40-50,Normal,2,Medium Risk,Medium Risk,68.64,45.53,0,4.0,Regular health checkup recommended,No Alert
+1,71.0,62.0,0,0,21.8,0.416,26,0,20-30,Normal,1,Low Risk,Low Risk,42.74,9.51,0,0.0,Maintain healthy lifestyle,No Alert
+8,74.0,70.0,40,49,35.3,0.705,39,0,30-40,Obese,1,Low Risk,Low Risk,51.89,22.24,0,2.0,Maintain healthy lifestyle,No Alert
+5,88.0,78.0,30,0,27.6,0.258,37,0,30-40,Overweight,1,Low Risk,Low Risk,54.580000000000005,25.98,0,12.0,Maintain healthy lifestyle,No Alert
+10,115.0,98.0,0,0,24.0,1.022,34,0,30-40,Normal,1,Low Risk,Low Risk,63.400000000000006,38.24,0,10.0,Maintain healthy lifestyle,No Alert
+0,124.0,56.0,13,105,21.8,0.452,21,0,20-30,Normal,1,Low Risk,Low Risk,62.44,36.91,0,4.0,Maintain healthy lifestyle,No Alert
+0,74.0,52.0,10,36,27.8,0.269,22,0,20-30,Overweight,1,Low Risk,Low Risk,44.54,12.02,0,0.0,Maintain healthy lifestyle,No Alert
+0,97.0,64.0,36,100,36.8,0.6,25,0,20-30,Obese,1,Low Risk,Low Risk,57.34,29.82,0,11.0,Maintain healthy lifestyle,No Alert
+8,120.0,72.0,0,0,30.0,0.183,38,1,30-40,Obese,1,Low Risk,Low Risk,68.4,45.2,1,82.0,Regular health checkup recommended,No Alert
+6,154.0,78.0,41,140,46.1,0.571,27,0,20-30,Obese,0,High Risk,High Risk,83.53,66.24,1,74.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+1,144.0,82.0,40,0,41.3,0.607,28,0,20-30,Obese,0,High Risk,High Risk,78.39,59.09,0,18.0,Regular health checkup recommended,Severe Obesity Risk
+0,137.0,70.0,38,0,33.2,0.17,22,0,20-30,Obese,0,High Risk,High Risk,71.36,49.31,1,72.0,Regular health checkup recommended,No Alert
+0,119.0,66.0,27,0,38.8,0.259,22,0,20-30,Obese,1,Low Risk,Low Risk,65.84,41.64,0,9.0,Regular health checkup recommended,No Alert
+7,136.0,90.0,0,0,29.9,0.21,50,0,50+,Overweight,2,Medium Risk,Medium Risk,78.37,59.06,0,24.0,Regular health checkup recommended,No Alert
+4,114.0,64.0,0,0,28.9,0.126,24,0,20-30,Overweight,1,Low Risk,Low Risk,61.47,35.56,0,6.0,Maintain healthy lifestyle,No Alert
+0,137.0,84.0,27,0,27.3,0.231,59,0,50+,Overweight,2,Medium Risk,Medium Risk,80.69,62.29,0,12.0,Lifestyle intervention and glucose monitoring,No Alert
+2,105.0,80.0,45,191,33.7,0.711,29,1,20-30,Obese,1,Low Risk,Low Risk,60.81,34.64,1,69.0,Maintain healthy lifestyle,No Alert
+7,114.0,76.0,17,110,23.8,0.466,31,0,30-40,Normal,1,Low Risk,Low Risk,62.04,36.35,0,7.0,Maintain healthy lifestyle,No Alert
+8,126.0,74.0,38,75,25.9,0.162,39,0,30-40,Overweight,2,Medium Risk,Medium Risk,69.87,47.24,0,3.0,Regular health checkup recommended,No Alert
+4,132.0,86.0,31,0,28.0,0.419,63,0,50+,Overweight,2,Medium Risk,Medium Risk,80.1,61.47,0,16.0,Lifestyle intervention and glucose monitoring,No Alert
+3,158.0,70.0,30,328,35.5,0.344,35,1,30-40,Obese,0,High Risk,High Risk,84.35000000000001,67.38,1,72.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+0,123.0,88.0,37,0,35.2,0.197,29,0,20-30,Obese,1,Low Risk,Low Risk,68.46000000000001,45.28,0,44.0,Regular health checkup recommended,No Alert
+4,85.0,58.0,22,49,27.8,0.306,28,0,20-30,Overweight,1,Low Risk,Low Risk,50.74,20.64,0,0.0,Maintain healthy lifestyle,No Alert
+0,84.0,82.0,31,125,38.2,0.233,23,0,20-30,Obese,1,Low Risk,Low Risk,51.96,22.33,0,6.0,Maintain healthy lifestyle,No Alert
+0,145.0,72.0,0,0,44.2,0.63,31,1,30-40,Obese,0,High Risk,High Risk,80.56,62.11,1,79.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+0,135.0,68.0,42,250,42.3,0.365,24,1,20-30,Obese,0,High Risk,High Risk,73.89,52.83,1,77.0,Regular health checkup recommended,Severe Obesity Risk
+1,139.0,62.0,41,480,40.7,0.536,21,0,20-30,Obese,0,High Risk,High Risk,74.11,53.14,1,56.0,Regular health checkup recommended,Critical Insulin Anomaly | Severe Obesity Risk
+0,173.0,78.0,32,265,46.5,1.159,58,0,50+,Obese,2,Medium Risk,Medium Risk,100.55,89.9,0,34.0,Immediate physician consultation,Severe Obesity Risk
+4,99.0,72.0,17,0,25.6,0.294,28,0,20-30,Overweight,1,Low Risk,Low Risk,55.68,27.51,0,2.0,Maintain healthy lifestyle,No Alert
+8,194.0,80.0,0,0,26.1,0.551,67,0,50+,Overweight,2,Medium Risk,Medium Risk,105.53,96.83,1,58.0,Immediate physician consultation,Very High Glucose
+2,83.0,65.0,28,66,36.8,0.629,24,0,20-30,Obese,1,Low Risk,Low Risk,51.44,21.61,0,4.0,Maintain healthy lifestyle,No Alert
+2,89.0,90.0,30,0,33.5,0.292,42,0,40-50,Obese,1,Low Risk,Low Risk,58.25,31.08,0,10.0,Maintain healthy lifestyle,No Alert
+4,99.0,68.0,38,0,32.8,0.145,33,0,30-40,Obese,1,Low Risk,Low Risk,59.34,32.6,0,7.0,Maintain healthy lifestyle,No Alert
+4,125.0,70.0,18,122,28.9,1.144,45,1,40-50,Overweight,2,Medium Risk,Medium Risk,72.17,50.44,1,74.0,Regular health checkup recommended,No Alert
+3,80.0,72.0,0,0,32.3,0.174,22,0,20-30,Obese,1,Low Risk,Low Risk,48.29,17.23,0,3.0,Maintain healthy lifestyle,No Alert
+6,166.0,74.0,0,0,26.6,0.304,66,0,50+,Overweight,2,Medium Risk,Medium Risk,94.18,81.05,0,27.0,Immediate physician consultation,No Alert
+5,110.0,68.0,0,0,26.0,0.292,30,0,30-40,Overweight,1,Low Risk,Low Risk,60.8,34.63,0,5.0,Maintain healthy lifestyle,No Alert
+2,81.0,72.0,15,76,30.1,0.547,25,0,20-30,Obese,1,Low Risk,Low Risk,48.93,18.12,0,0.0,Maintain healthy lifestyle,No Alert
+7,195.0,70.0,33,145,25.1,0.163,55,1,50+,Overweight,2,Medium Risk,Medium Risk,102.03,91.96,1,88.0,Immediate physician consultation,Very High Glucose
+6,154.0,74.0,32,193,29.3,0.839,39,0,30-40,Overweight,0,High Risk,High Risk,82.09,64.23,0,17.0,Lifestyle intervention and glucose monitoring,No Alert
+2,117.0,90.0,19,71,25.2,0.313,21,0,20-30,Overweight,1,Low Risk,Low Risk,60.66,34.43,0,1.0,Maintain healthy lifestyle,No Alert
+3,84.0,72.0,32,0,37.2,0.267,28,0,20-30,Obese,1,Low Risk,Low Risk,53.16,24.0,0,11.0,Maintain healthy lifestyle,No Alert
+6,117.0,68.0,41,0,39.0,0.727,41,1,40-50,Obese,2,Medium Risk,Medium Risk,70.8,48.53,1,85.0,Regular health checkup recommended,No Alert
+7,94.0,64.0,25,79,33.3,0.738,41,0,40-50,Obese,1,Low Risk,Low Risk,59.89,33.36,0,10.0,Maintain healthy lifestyle,No Alert
+3,96.0,78.0,39,0,37.3,0.238,40,0,40-50,Obese,1,Low Risk,Low Risk,61.59,35.73,0,8.0,Maintain healthy lifestyle,No Alert
+10,75.0,82.0,0,0,33.3,0.263,38,0,30-40,Obese,1,Low Risk,Low Risk,51.38999999999999,21.54,0,6.0,Maintain healthy lifestyle,No Alert
+0,180.0,90.0,26,90,36.5,0.314,35,1,30-40,Obese,0,High Risk,High Risk,93.45,80.03,1,91.0,Immediate physician consultation,No Alert
+1,130.0,60.0,23,170,28.6,0.692,21,0,20-30,Overweight,1,Low Risk,Low Risk,66.88,43.08,0,3.0,Regular health checkup recommended,No Alert
+2,84.0,50.0,23,76,30.4,0.968,21,0,20-30,Obese,1,Low Risk,Low Risk,49.02,18.25,0,0.0,Maintain healthy lifestyle,No Alert
+8,120.0,78.0,0,0,25.0,0.409,64,0,50+,Overweight,2,Medium Risk,Medium Risk,74.7,53.96,0,1.0,Regular health checkup recommended,No Alert
+12,84.0,72.0,31,0,29.7,0.297,46,1,40-50,Overweight,2,Medium Risk,Medium Risk,56.31,28.38,1,75.0,Maintain healthy lifestyle,No Alert
+0,139.0,62.0,17,210,22.1,0.207,21,0,20-30,Normal,1,Low Risk,Low Risk,68.53,45.38,0,7.0,Regular health checkup recommended,No Alert
+9,91.0,68.0,0,0,24.2,0.2,58,0,50+,Normal,2,Medium Risk,Medium Risk,61.06,34.99,0,2.0,Maintain healthy lifestyle,No Alert
+2,91.0,62.0,0,0,27.3,0.525,22,0,20-30,Overweight,1,Low Risk,Low Risk,51.19,21.26,0,2.0,Maintain healthy lifestyle,No Alert
+3,99.0,54.0,19,86,25.6,0.154,24,0,20-30,Overweight,1,Low Risk,Low Risk,54.48,25.84,0,1.0,Maintain healthy lifestyle,No Alert
+3,163.0,70.0,18,105,31.6,0.268,28,1,20-30,Obese,0,High Risk,High Risk,83.08000000000001,65.61,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+9,145.0,88.0,34,165,30.3,0.771,53,1,50+,Obese,2,Medium Risk,Medium Risk,82.99000000000001,65.48,1,95.0,Lifestyle intervention and glucose monitoring,No Alert
+7,125.0,86.0,0,0,37.6,0.304,51,0,50+,Obese,2,Medium Risk,Medium Risk,76.58,56.57,0,40.0,Regular health checkup recommended,No Alert
+13,76.0,60.0,0,0,32.8,0.18,41,0,40-50,Obese,1,Low Risk,Low Risk,52.54,23.14,0,9.0,Maintain healthy lifestyle,No Alert
+6,129.0,90.0,7,326,19.6,0.582,60,0,50+,Normal,2,Medium Risk,Medium Risk,75.48,55.04,0,19.0,Regular health checkup recommended,Critical Insulin Anomaly
+2,68.0,70.0,32,66,25.0,0.187,25,0,20-30,Overweight,1,Low Risk,Low Risk,42.2,8.76,0,2.0,Maintain healthy lifestyle,No Alert
+3,124.0,80.0,33,130,33.2,0.305,26,0,20-30,Obese,1,Low Risk,Low Risk,67.36,43.75,0,15.0,Regular health checkup recommended,No Alert
+6,114.0,72.0,0,0,32.3,0.189,26,0,20-30,Obese,1,Low Risk,Low Risk,63.09,37.81,0,14.0,Maintain healthy lifestyle,No Alert
+9,130.0,70.0,0,0,34.2,0.652,45,1,40-50,Obese,2,Medium Risk,Medium Risk,75.75999999999999,55.43,1,86.0,Regular health checkup recommended,No Alert
+3,125.0,58.0,0,0,31.6,0.151,24,0,20-30,Obese,1,Low Risk,Low Risk,66.68,42.8,0,10.0,Regular health checkup recommended,No Alert
+3,87.0,60.0,18,0,21.8,0.444,21,0,20-30,Normal,1,Low Risk,Low Risk,47.64,16.33,0,2.0,Maintain healthy lifestyle,No Alert
+1,97.0,64.0,19,82,18.2,0.299,21,0,20-30,Underweight,1,Low Risk,Low Risk,50.56,20.39,0,0.0,Maintain healthy lifestyle,No Alert
+3,116.0,74.0,15,105,26.3,0.107,24,0,20-30,Overweight,1,Low Risk,Low Risk,61.49000000000001,35.59,0,3.0,Maintain healthy lifestyle,No Alert
+0,117.0,66.0,31,188,30.8,0.493,22,0,20-30,Obese,1,Low Risk,Low Risk,62.64000000000001,37.19,0,6.0,Maintain healthy lifestyle,No Alert
+0,111.0,65.0,0,0,24.6,0.66,31,0,30-40,Normal,1,Low Risk,Low Risk,61.080000000000005,35.02,0,5.0,Maintain healthy lifestyle,No Alert
+2,122.0,60.0,18,106,29.8,0.717,22,0,20-30,Overweight,1,Low Risk,Low Risk,64.34,39.55,0,1.0,Maintain healthy lifestyle,No Alert
+0,107.0,76.0,0,0,45.3,0.686,24,0,20-30,Obese,1,Low Risk,Low Risk,63.59,38.51,0,41.0,Maintain healthy lifestyle,Severe Obesity Risk
+1,86.0,66.0,52,65,41.3,0.917,29,0,20-30,Obese,1,Low Risk,Low Risk,55.49,27.24,0,9.0,Maintain healthy lifestyle,Severe Obesity Risk
+6,91.0,72.0,0,0,29.8,0.501,31,0,30-40,Overweight,1,Low Risk,Low Risk,54.63999999999999,26.06,0,33.0,Maintain healthy lifestyle,No Alert
+1,77.0,56.0,30,56,33.3,1.251,24,0,20-30,Obese,1,Low Risk,Low Risk,47.99,16.81,0,2.0,Maintain healthy lifestyle,No Alert
+4,132.0,72.0,0,0,32.9,0.302,23,1,20-30,Obese,1,Low Risk,Low Risk,69.57000000000001,46.82,0,49.0,Regular health checkup recommended,No Alert
+0,105.0,90.0,0,0,29.6,0.197,46,0,40-50,Overweight,2,Medium Risk,Medium Risk,64.68,40.02,0,17.0,Regular health checkup recommended,No Alert
+0,57.0,60.0,0,0,21.7,0.735,67,0,50+,Normal,2,Medium Risk,Medium Risk,49.41,18.79,0,9.0,Maintain healthy lifestyle,No Alert
+0,127.0,80.0,37,210,36.3,0.804,23,0,20-30,Obese,1,Low Risk,Low Risk,68.59,45.46,0,13.0,Regular health checkup recommended,No Alert
+3,129.0,92.0,49,155,36.4,0.968,32,1,30-40,Obese,0,High Risk,High Risk,72.12,50.37,1,82.0,Regular health checkup recommended,No Alert
+8,100.0,74.0,40,215,39.4,0.661,43,1,40-50,Obese,2,Medium Risk,Medium Risk,64.72,40.08,1,80.0,Regular health checkup recommended,No Alert
+3,128.0,72.0,25,190,32.4,0.549,27,1,20-30,Obese,1,Low Risk,Low Risk,69.02,46.06,1,67.0,Regular health checkup recommended,No Alert
+10,90.0,85.0,32,0,34.9,0.825,56,1,50+,Obese,2,Medium Risk,Medium Risk,63.27,38.06,1,71.0,Maintain healthy lifestyle,No Alert
+4,84.0,90.0,23,56,39.5,0.159,25,0,20-30,Obese,1,Low Risk,Low Risk,52.95,23.71,0,25.0,Maintain healthy lifestyle,No Alert
+1,88.0,78.0,29,76,32.0,0.365,29,0,20-30,Obese,1,Low Risk,Low Risk,53.5,24.48,0,5.0,Maintain healthy lifestyle,No Alert
+8,186.0,90.0,35,225,34.5,0.423,37,1,30-40,Obese,0,High Risk,High Risk,95.85,83.37,1,100.0,Immediate physician consultation,Very High Glucose
+5,187.0,76.0,27,207,43.6,1.034,53,1,50+,Obese,2,Medium Risk,Medium Risk,103.78,94.4,1,92.0,Immediate physician consultation,Very High Glucose | Severe Obesity Risk
+4,131.0,68.0,21,166,33.1,0.16,28,0,20-30,Obese,1,Low Risk,Low Risk,70.73,48.44,0,17.0,Regular health checkup recommended,No Alert
+1,164.0,82.0,43,67,32.8,0.341,50,0,50+,Obese,2,Medium Risk,Medium Risk,90.44,75.84,0,26.0,Lifestyle intervention and glucose monitoring,No Alert
+4,189.0,110.0,31,0,28.5,0.68,37,0,30-40,Overweight,0,High Risk,High Risk,95.25,82.53,0,22.0,Immediate physician consultation,Very High Glucose
+1,116.0,70.0,28,0,27.4,0.204,21,0,20-30,Overweight,1,Low Risk,Low Risk,60.92,34.79,0,2.0,Maintain healthy lifestyle,No Alert
+3,84.0,68.0,30,106,31.9,0.591,25,0,20-30,Obese,1,Low Risk,Low Risk,50.67,20.54,0,6.0,Maintain healthy lifestyle,No Alert
+6,114.0,88.0,0,0,27.8,0.247,66,0,50+,Overweight,2,Medium Risk,Medium Risk,73.74,52.62,0,11.0,Regular health checkup recommended,No Alert
+1,88.0,62.0,24,44,29.9,0.422,23,0,20-30,Overweight,1,Low Risk,Low Risk,51.07,21.1,0,0.0,Maintain healthy lifestyle,No Alert
+1,84.0,64.0,23,115,36.9,0.471,28,0,20-30,Obese,1,Low Risk,Low Risk,53.07,23.88,0,25.0,Maintain healthy lifestyle,No Alert
+7,124.0,70.0,33,215,25.5,0.161,37,0,30-40,Overweight,1,Low Risk,Low Risk,68.35,45.13,0,7.0,Regular health checkup recommended,No Alert
+1,97.0,70.0,40,0,38.1,0.218,30,0,30-40,Obese,1,Low Risk,Low Risk,59.23,32.44,0,8.0,Maintain healthy lifestyle,No Alert
+8,110.0,76.0,0,0,27.8,0.237,58,0,50+,Overweight,2,Medium Risk,Medium Risk,69.74000000000001,47.06,0,13.0,Regular health checkup recommended,No Alert
+11,103.0,68.0,40,0,46.2,0.126,42,0,40-50,Obese,2,Medium Risk,Medium Risk,67.66,44.17,1,74.0,Regular health checkup recommended,Severe Obesity Risk
+11,85.0,74.0,0,0,30.1,0.3,35,0,30-40,Obese,1,Low Risk,Low Risk,53.53,24.52,0,20.0,Maintain healthy lifestyle,No Alert
+6,125.0,76.0,0,0,33.8,0.121,54,1,50+,Obese,2,Medium Risk,Medium Risk,76.34,56.24,1,52.0,Regular health checkup recommended,No Alert
+0,198.0,66.0,32,274,41.3,0.502,28,1,20-30,Obese,0,High Risk,High Risk,99.99,89.13,1,94.0,Immediate physician consultation,Very High Glucose | Severe Obesity Risk
+1,87.0,68.0,34,77,37.6,0.401,24,0,20-30,Obese,1,Low Risk,Low Risk,53.28,24.17,0,3.0,Maintain healthy lifestyle,No Alert
+6,99.0,60.0,19,54,26.9,0.497,32,0,30-40,Overweight,1,Low Risk,Low Risk,57.27,29.72,0,4.0,Maintain healthy lifestyle,No Alert
+0,91.0,80.0,0,0,32.4,0.601,27,0,20-30,Obese,1,Low Risk,Low Risk,54.22,25.48,0,7.0,Maintain healthy lifestyle,No Alert
+2,95.0,54.0,14,88,26.1,0.748,22,0,20-30,Overweight,1,Low Risk,Low Risk,52.43,22.99,0,0.0,Maintain healthy lifestyle,No Alert
+1,99.0,72.0,30,18,38.6,0.412,21,0,20-30,Obese,1,Low Risk,Low Risk,57.48,30.01,0,1.0,Maintain healthy lifestyle,No Alert
+6,92.0,62.0,32,126,32.0,0.085,46,0,40-50,Obese,2,Medium Risk,Medium Risk,60.2,33.79,0,14.0,Maintain healthy lifestyle,No Alert
+4,154.0,72.0,29,126,31.3,0.338,37,0,30-40,Obese,0,High Risk,High Risk,82.09,64.23,0,21.0,Lifestyle intervention and glucose monitoring,No Alert
+0,121.0,66.0,30,165,34.3,0.203,33,1,30-40,Obese,1,Low Risk,Low Risk,68.59,45.46,1,81.0,Regular health checkup recommended,No Alert
+3,78.0,70.0,0,0,32.5,0.27,39,0,30-40,Obese,1,Low Risk,Low Risk,52.650000000000006,23.29,0,19.0,Maintain healthy lifestyle,No Alert
+2,130.0,96.0,0,0,22.6,0.268,21,0,20-30,Normal,1,Low Risk,Low Risk,65.08,40.58,0,4.0,Regular health checkup recommended,No Alert
+3,111.0,58.0,31,44,29.5,0.43,22,0,20-30,Overweight,1,Low Risk,Low Risk,59.85000000000001,33.31,0,2.0,Maintain healthy lifestyle,No Alert
+2,98.0,60.0,17,120,34.7,0.198,22,0,20-30,Obese,1,Low Risk,Low Risk,56.21,28.24,0,1.0,Maintain healthy lifestyle,No Alert
+1,143.0,86.0,30,330,30.1,0.892,23,0,20-30,Obese,0,High Risk,High Risk,73.13000000000001,51.77,0,12.0,Regular health checkup recommended,Critical Insulin Anomaly
+1,119.0,44.0,47,63,35.5,0.28,25,0,20-30,Obese,1,Low Risk,Low Risk,65.75,41.51,0,9.0,Regular health checkup recommended,No Alert
+6,108.0,44.0,20,130,24.0,0.813,35,0,30-40,Normal,1,Low Risk,Low Risk,60.900000000000006,34.77,0,5.0,Maintain healthy lifestyle,No Alert
+2,118.0,80.0,0,0,42.9,0.693,21,1,20-30,Obese,1,Low Risk,Low Risk,66.37,42.37,1,62.0,Regular health checkup recommended,Severe Obesity Risk
+10,133.0,68.0,0,0,27.0,0.245,36,0,30-40,Overweight,1,Low Risk,Low Risk,72.10000000000001,50.34,0,15.0,Regular health checkup recommended,No Alert
+2,197.0,70.0,99,0,34.7,0.575,62,1,50+,Obese,2,Medium Risk,Medium Risk,107.81,100.0,1,83.0,Immediate physician consultation,Very High Glucose
+0,151.0,90.0,46,0,42.1,0.371,21,1,20-30,Obese,0,High Risk,High Risk,79.33,60.39,1,75.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+6,109.0,60.0,27,0,25.0,0.206,27,0,20-30,Overweight,1,Low Risk,Low Risk,59.2,32.4,0,3.0,Maintain healthy lifestyle,No Alert
+12,121.0,78.0,17,0,26.5,0.259,62,0,50+,Overweight,2,Medium Risk,Medium Risk,74.95,54.3,0,5.0,Regular health checkup recommended,No Alert
+8,100.0,76.0,0,0,38.7,0.19,42,0,40-50,Obese,2,Medium Risk,Medium Risk,64.21,39.37,0,16.0,Maintain healthy lifestyle,No Alert
+8,124.0,76.0,24,600,28.7,0.687,52,1,50+,Overweight,2,Medium Risk,Medium Risk,73.81,52.72,1,58.0,Regular health checkup recommended,Critical Insulin Anomaly
+1,93.0,56.0,11,0,22.5,0.417,22,0,20-30,Normal,1,Low Risk,Low Risk,50.55,20.37,0,0.0,Maintain healthy lifestyle,No Alert
+8,143.0,66.0,0,0,34.9,0.129,41,1,40-50,Obese,2,Medium Risk,Medium Risk,79.97,61.28,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+6,103.0,66.0,0,0,24.3,0.249,29,0,20-30,Normal,1,Low Risk,Low Risk,57.19,29.61,0,0.0,Maintain healthy lifestyle,No Alert
+3,176.0,86.0,27,156,33.3,1.154,52,1,50+,Obese,2,Medium Risk,Medium Risk,95.99,83.56,1,94.0,Immediate physician consultation,No Alert
+0,73.0,72.0,0,0,21.1,0.342,25,0,20-30,Normal,1,Low Risk,Low Risk,43.03,9.92,0,1.0,Maintain healthy lifestyle,No Alert
+11,111.0,84.0,40,0,46.8,0.925,45,1,40-50,Obese,2,Medium Risk,Medium Risk,71.94,50.12,1,89.0,Regular health checkup recommended,Severe Obesity Risk
+2,112.0,78.0,50,140,39.4,0.175,24,0,20-30,Obese,1,Low Risk,Low Risk,63.82000000000001,38.83,0,4.0,Maintain healthy lifestyle,No Alert
+3,132.0,80.0,0,0,34.4,0.402,44,1,40-50,Obese,2,Medium Risk,Medium Risk,76.32000000000001,56.21,1,70.0,Regular health checkup recommended,No Alert
+2,82.0,52.0,22,115,28.5,1.699,25,0,20-30,Overweight,1,Low Risk,Low Risk,48.85,18.01,0,1.0,Maintain healthy lifestyle,No Alert
+6,123.0,72.0,45,230,33.6,0.733,34,0,30-40,Obese,1,Low Risk,Low Risk,69.48,46.7,0,25.0,Regular health checkup recommended,No Alert
+0,188.0,82.0,14,185,32.0,0.682,22,1,20-30,Obese,0,High Risk,High Risk,91.4,77.18,1,82.0,Lifestyle intervention and glucose monitoring,Very High Glucose
+0,67.0,76.0,0,0,45.3,0.194,46,0,40-50,Obese,1,Low Risk,Low Risk,54.19,25.43,0,25.0,Maintain healthy lifestyle,Severe Obesity Risk
+1,89.0,24.0,19,25,27.8,0.559,21,0,20-30,Overweight,1,Low Risk,Low Risk,50.24,19.94,0,2.0,Maintain healthy lifestyle,No Alert
+1,173.0,74.0,0,0,36.8,0.088,38,1,30-40,Obese,0,High Risk,High Risk,91.64,77.51,1,96.0,Lifestyle intervention and glucose monitoring,No Alert
+1,109.0,38.0,18,120,23.1,0.407,26,0,20-30,Normal,1,Low Risk,Low Risk,58.33,31.19,0,0.0,Maintain healthy lifestyle,No Alert
+1,108.0,88.0,19,0,27.1,0.4,24,0,20-30,Overweight,1,Low Risk,Low Risk,58.53,31.47,0,1.0,Maintain healthy lifestyle,No Alert
+6,96.0,72.0,0,0,23.7,0.19,28,0,20-30,Normal,1,Low Risk,Low Risk,53.91,25.05,0,1.0,Maintain healthy lifestyle,No Alert
+1,124.0,74.0,36,0,27.8,0.1,30,0,30-40,Overweight,1,Low Risk,Low Risk,66.94,43.17,0,12.0,Regular health checkup recommended,No Alert
+7,150.0,78.0,29,126,35.2,0.692,54,1,50+,Obese,2,Medium Risk,Medium Risk,86.76,70.73,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+4,183.0,72.0,0,0,28.4,0.212,36,1,30-40,Overweight,0,High Risk,High Risk,92.52,78.74,1,84.0,Lifestyle intervention and glucose monitoring,Very High Glucose
+1,124.0,60.0,32,0,35.8,0.514,21,0,20-30,Obese,1,Low Risk,Low Risk,66.64,42.75,0,9.0,Regular health checkup recommended,No Alert
+1,181.0,78.0,42,293,40.0,1.258,22,1,20-30,Obese,0,High Risk,High Risk,91.0,76.62,1,90.0,Lifestyle intervention and glucose monitoring,Very High Glucose
+1,92.0,62.0,25,41,19.5,0.482,25,0,20-30,Normal,1,Low Risk,Low Risk,50.150000000000006,19.82,0,1.0,Maintain healthy lifestyle,No Alert
+0,152.0,82.0,39,272,41.5,0.27,27,0,20-30,Obese,0,High Risk,High Risk,81.35,63.2,0,25.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+1,111.0,62.0,13,182,24.0,0.138,23,0,20-30,Normal,1,Low Risk,Low Risk,58.50000000000001,31.43,0,3.0,Maintain healthy lifestyle,No Alert
+3,106.0,54.0,21,158,30.9,0.292,24,0,20-30,Obese,1,Low Risk,Low Risk,58.870000000000005,31.94,0,4.0,Maintain healthy lifestyle,No Alert
+3,174.0,58.0,22,194,32.9,0.593,36,1,30-40,Obese,0,High Risk,High Risk,90.27,75.61,1,89.0,Lifestyle intervention and glucose monitoring,No Alert
+7,168.0,88.0,42,321,38.2,0.787,40,1,40-50,Obese,0,High Risk,High Risk,90.66,76.15,1,96.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+6,105.0,80.0,28,0,32.5,0.878,26,0,20-30,Obese,1,Low Risk,Low Risk,59.55,32.89,0,3.0,Maintain healthy lifestyle,No Alert
+11,138.0,74.0,26,144,36.1,0.557,50,1,50+,Obese,2,Medium Risk,Medium Risk,81.03,62.76,1,90.0,Lifestyle intervention and glucose monitoring,No Alert
+3,106.0,72.0,0,0,25.8,0.207,27,0,20-30,Overweight,1,Low Risk,Low Risk,58.24000000000001,31.07,0,3.0,Maintain healthy lifestyle,No Alert
+6,117.0,96.0,0,0,28.7,0.157,30,0,30-40,Overweight,1,Low Risk,Low Risk,64.41,39.65,0,13.0,Maintain healthy lifestyle,No Alert
+2,68.0,62.0,13,15,20.1,0.257,23,0,20-30,Normal,1,Low Risk,Low Risk,40.13,5.88,0,2.0,Maintain healthy lifestyle,No Alert
+9,112.0,82.0,24,0,28.2,1.282,50,1,50+,Overweight,2,Medium Risk,Medium Risk,68.26,45.0,0,43.0,Regular health checkup recommended,No Alert
+0,119.0,72.0,0,0,32.4,0.141,24,1,20-30,Obese,1,Low Risk,Low Risk,64.52,39.8,1,70.0,Maintain healthy lifestyle,No Alert
+2,112.0,86.0,42,160,38.4,0.246,28,0,20-30,Obese,1,Low Risk,Low Risk,64.72000000000001,40.08,0,17.0,Regular health checkup recommended,No Alert
+2,92.0,76.0,20,0,24.2,1.698,28,0,20-30,Normal,1,Low Risk,Low Risk,52.46,23.03,0,0.0,Maintain healthy lifestyle,No Alert
+6,183.0,94.0,0,0,40.8,1.461,45,0,40-50,Obese,0,High Risk,High Risk,98.94,87.67,0,33.0,Immediate physician consultation,Very High Glucose | Severe Obesity Risk
+0,94.0,70.0,27,115,43.5,0.347,21,0,20-30,Obese,1,Low Risk,Low Risk,56.95,29.27,0,7.0,Maintain healthy lifestyle,Severe Obesity Risk
+2,108.0,64.0,0,0,30.8,0.158,21,0,20-30,Obese,1,Low Risk,Low Risk,58.74,31.76,0,3.0,Maintain healthy lifestyle,No Alert
+4,90.0,88.0,47,54,37.7,0.362,29,0,20-30,Obese,1,Low Risk,Low Risk,56.010000000000005,27.97,0,13.0,Maintain healthy lifestyle,No Alert
+0,125.0,68.0,0,0,24.7,0.206,21,0,20-30,Normal,1,Low Risk,Low Risk,63.71,38.67,0,4.0,Maintain healthy lifestyle,No Alert
+0,132.0,78.0,0,0,32.4,0.393,21,0,20-30,Obese,1,Low Risk,Low Risk,68.82000000000001,45.78,0,15.0,Regular health checkup recommended,No Alert
+5,128.0,80.0,0,0,34.6,0.144,45,0,40-50,Obese,2,Medium Risk,Medium Risk,75.08000000000001,54.48,0,17.0,Regular health checkup recommended,No Alert
+4,94.0,65.0,22,0,24.7,0.148,21,0,20-30,Normal,1,Low Risk,Low Risk,51.31,21.43,0,2.0,Maintain healthy lifestyle,No Alert
+7,114.0,64.0,0,0,27.4,0.732,34,1,30-40,Overweight,1,Low Risk,Low Risk,64.02,39.1,0,37.0,Maintain healthy lifestyle,No Alert
+0,102.0,78.0,40,90,34.5,0.238,24,0,20-30,Obese,1,Low Risk,Low Risk,58.35000000000001,31.22,0,5.0,Maintain healthy lifestyle,No Alert
+2,111.0,60.0,0,0,26.2,0.343,23,0,20-30,Overweight,1,Low Risk,Low Risk,59.16,32.35,0,2.0,Maintain healthy lifestyle,No Alert
+1,128.0,82.0,17,183,27.5,0.115,22,0,20-30,Overweight,1,Low Risk,Low Risk,66.05,41.93,0,4.0,Regular health checkup recommended,No Alert
+10,92.0,62.0,0,0,25.9,0.167,31,0,30-40,Overweight,1,Low Risk,Low Risk,53.870000000000005,24.99,0,6.0,Maintain healthy lifestyle,No Alert
+13,104.0,72.0,0,0,31.2,0.465,38,1,30-40,Obese,1,Low Risk,Low Risk,62.36,36.8,0,34.0,Maintain healthy lifestyle,No Alert
+5,104.0,74.0,0,0,28.8,0.153,48,0,40-50,Overweight,2,Medium Risk,Medium Risk,64.64,39.97,0,15.0,Maintain healthy lifestyle,No Alert
+2,94.0,76.0,18,66,31.6,0.649,23,0,20-30,Obese,1,Low Risk,Low Risk,53.98,25.14,0,5.0,Maintain healthy lifestyle,No Alert
+7,97.0,76.0,32,91,40.9,0.871,32,1,30-40,Obese,1,Low Risk,Low Risk,60.67000000000001,34.45,1,73.0,Maintain healthy lifestyle,Severe Obesity Risk
+1,100.0,74.0,12,46,19.5,0.149,28,0,20-30,Normal,1,Low Risk,Low Risk,54.25,25.52,0,2.0,Maintain healthy lifestyle,No Alert
+0,102.0,86.0,17,105,29.3,0.695,27,0,20-30,Overweight,1,Low Risk,Low Risk,57.690000000000005,30.3,0,3.0,Maintain healthy lifestyle,No Alert
+4,128.0,70.0,0,0,34.3,0.303,24,0,20-30,Obese,1,Low Risk,Low Risk,68.69,45.6,0,16.0,Regular health checkup recommended,No Alert
+6,147.0,80.0,0,0,29.5,0.178,50,1,50+,Overweight,2,Medium Risk,Medium Risk,82.65,65.01,1,76.0,Lifestyle intervention and glucose monitoring,No Alert
+4,90.0,72.0,0,0,28.0,0.61,31,0,30-40,Overweight,1,Low Risk,Low Risk,53.7,24.75,0,9.0,Maintain healthy lifestyle,No Alert
+3,103.0,72.0,30,152,27.6,0.73,27,0,20-30,Overweight,1,Low Risk,Low Risk,57.580000000000005,30.15,0,4.0,Maintain healthy lifestyle,No Alert
+2,157.0,74.0,35,440,39.4,0.134,30,0,30-40,Obese,0,High Risk,High Risk,83.62,66.36,0,34.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+1,167.0,74.0,17,144,23.4,0.447,33,1,30-40,Normal,0,High Risk,High Risk,83.72,66.5,1,95.0,Lifestyle intervention and glucose monitoring,No Alert
+0,179.0,50.0,36,159,37.8,0.455,22,1,20-30,Obese,0,High Risk,High Risk,89.54,74.59,1,99.0,Lifestyle intervention and glucose monitoring,No Alert
+11,136.0,84.0,35,130,28.3,0.26,42,1,40-50,Overweight,2,Medium Risk,Medium Risk,75.49000000000001,55.05,1,88.0,Regular health checkup recommended,No Alert
+0,107.0,60.0,25,0,26.4,0.133,23,0,20-30,Overweight,1,Low Risk,Low Risk,57.620000000000005,30.2,0,0.0,Maintain healthy lifestyle,No Alert
+1,91.0,54.0,25,100,25.2,0.234,23,0,20-30,Overweight,1,Low Risk,Low Risk,50.86,20.8,0,1.0,Maintain healthy lifestyle,No Alert
+1,117.0,60.0,23,106,33.8,0.466,27,0,20-30,Obese,1,Low Risk,Low Risk,65.04,40.52,0,4.0,Regular health checkup recommended,No Alert
+5,123.0,74.0,40,77,34.1,0.269,28,0,20-30,Obese,1,Low Risk,Low Risk,67.83000000000001,44.4,0,6.0,Regular health checkup recommended,No Alert
+2,120.0,54.0,0,0,26.8,0.455,27,0,20-30,Overweight,1,Low Risk,Low Risk,64.14,39.27,0,2.0,Maintain healthy lifestyle,No Alert
+1,106.0,70.0,28,135,34.2,0.142,22,0,20-30,Obese,1,Low Risk,Low Risk,59.260000000000005,32.49,0,2.0,Maintain healthy lifestyle,No Alert
+2,155.0,52.0,27,540,38.7,0.24,25,1,20-30,Obese,0,High Risk,High Risk,81.11,62.87,1,73.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+2,101.0,58.0,35,90,21.8,0.155,22,0,20-30,Normal,1,Low Risk,Low Risk,53.540000000000006,24.53,0,2.0,Maintain healthy lifestyle,No Alert
+1,120.0,80.0,48,200,38.9,1.162,41,0,40-50,Obese,2,Medium Risk,Medium Risk,71.97,50.16,0,24.0,Regular health checkup recommended,No Alert
+11,127.0,106.0,0,0,39.0,0.19,51,0,50+,Obese,2,Medium Risk,Medium Risk,77.8,58.27,0,23.0,Regular health checkup recommended,No Alert
+3,80.0,82.0,31,70,34.2,1.292,27,1,20-30,Obese,1,Low Risk,Low Risk,50.36,20.11,1,63.0,Maintain healthy lifestyle,No Alert
+10,162.0,84.0,0,0,27.7,0.182,54,0,50+,Overweight,2,Medium Risk,Medium Risk,89.31,74.27,1,79.0,Lifestyle intervention and glucose monitoring,No Alert
+1,199.0,76.0,43,0,42.9,1.394,22,1,20-30,Obese,0,High Risk,High Risk,99.07,87.85,1,97.0,Immediate physician consultation,Very High Glucose | Severe Obesity Risk
+8,167.0,106.0,46,231,37.6,0.165,43,1,40-50,Obese,0,High Risk,High Risk,90.98,76.6,1,93.0,Lifestyle intervention and glucose monitoring,No Alert
+9,145.0,80.0,46,130,37.9,0.637,40,1,40-50,Obese,0,High Risk,High Risk,81.37,63.23,1,87.0,Lifestyle intervention and glucose monitoring,No Alert
+6,115.0,60.0,39,0,33.7,0.245,40,1,40-50,Obese,2,Medium Risk,Medium Risk,68.11,44.79,1,78.0,Regular health checkup recommended,No Alert
+1,112.0,80.0,45,132,34.8,0.217,24,0,20-30,Obese,1,Low Risk,Low Risk,62.44,36.91,0,3.0,Maintain healthy lifestyle,No Alert
+4,145.0,82.0,18,0,32.5,0.235,70,1,50+,Obese,2,Medium Risk,Medium Risk,88.75,73.49,1,69.0,Lifestyle intervention and glucose monitoring,No Alert
+10,111.0,70.0,27,0,27.5,0.141,40,1,40-50,Overweight,1,Low Risk,Low Risk,64.65,39.98,1,71.0,Maintain healthy lifestyle,No Alert
+6,98.0,58.0,33,190,34.0,0.43,43,0,40-50,Obese,2,Medium Risk,Medium Risk,62.3,36.71,0,11.0,Maintain healthy lifestyle,No Alert
+9,154.0,78.0,30,100,30.9,0.164,45,0,40-50,Obese,2,Medium Risk,Medium Risk,84.37,67.4,0,29.0,Lifestyle intervention and glucose monitoring,No Alert
+6,165.0,68.0,26,168,33.6,0.631,49,0,40-50,Obese,2,Medium Risk,Medium Risk,90.78,76.32,0,28.0,Lifestyle intervention and glucose monitoring,No Alert
+1,99.0,58.0,10,0,25.4,0.551,21,0,20-30,Overweight,1,Low Risk,Low Risk,53.52,24.5,0,2.0,Maintain healthy lifestyle,No Alert
+10,68.0,106.0,23,49,35.5,0.285,47,0,40-50,Obese,1,Low Risk,Low Risk,51.95,22.32,0,26.0,Maintain healthy lifestyle,No Alert
+3,123.0,100.0,35,240,57.3,0.88,22,0,20-30,Obese,0,High Risk,High Risk,72.99,51.58,0,19.0,Regular health checkup recommended,Severe Obesity Risk
+8,91.0,82.0,0,0,35.6,0.587,68,0,50+,Obese,2,Medium Risk,Medium Risk,67.47999999999999,43.92,0,18.0,Regular health checkup recommended,No Alert
+6,195.0,70.0,0,0,30.9,0.328,31,1,30-40,Obese,0,High Risk,High Risk,96.57,84.37,1,92.0,Immediate physician consultation,Very High Glucose
+9,156.0,86.0,0,0,24.8,0.23,53,1,50+,Normal,2,Medium Risk,Medium Risk,85.74000000000001,69.31,1,88.0,Lifestyle intervention and glucose monitoring,No Alert
+0,93.0,60.0,0,0,35.3,0.263,25,0,20-30,Obese,1,Low Risk,Low Risk,55.29,26.96,0,2.0,Maintain healthy lifestyle,No Alert
+3,121.0,52.0,0,0,36.0,0.127,25,1,20-30,Obese,1,Low Risk,Low Risk,66.7,42.83,0,12.0,Regular health checkup recommended,No Alert
+2,101.0,58.0,17,265,24.2,0.614,23,0,20-30,Normal,1,Low Risk,Low Risk,54.56,25.95,0,4.0,Maintain healthy lifestyle,No Alert
+2,56.0,56.0,28,45,24.2,0.332,22,0,20-30,Normal,1,Low Risk,Low Risk,36.260000000000005,0.5,0,0.0,Maintain healthy lifestyle,No Alert
+0,162.0,76.0,36,0,49.6,0.364,26,1,20-30,Obese,0,High Risk,High Risk,87.47999999999999,71.73,1,97.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+0,95.0,64.0,39,105,44.6,0.366,22,0,20-30,Obese,1,Low Risk,Low Risk,57.98,30.71,0,6.0,Maintain healthy lifestyle,Severe Obesity Risk
+4,125.0,80.0,0,0,32.3,0.536,27,1,20-30,Obese,1,Low Risk,Low Risk,67.78999999999999,44.35,1,75.0,Regular health checkup recommended,No Alert
+5,136.0,82.0,0,0,32.3,0.64,69,0,50+,Obese,2,Medium Risk,Medium Risk,84.79,67.99,0,15.0,Lifestyle intervention and glucose monitoring,No Alert
+2,129.0,74.0,26,205,33.2,0.591,25,0,20-30,Obese,1,Low Risk,Low Risk,69.06,46.11,0,14.0,Regular health checkup recommended,No Alert
+3,130.0,64.0,0,0,23.1,0.314,22,0,20-30,Normal,1,Low Risk,Low Risk,65.53,41.2,0,8.0,Regular health checkup recommended,No Alert
+1,107.0,50.0,19,0,28.3,0.181,29,0,20-30,Overweight,1,Low Risk,Low Risk,59.99000000000001,33.5,0,3.0,Maintain healthy lifestyle,No Alert
+1,140.0,74.0,26,180,24.1,0.828,23,0,20-30,Normal,1,Low Risk,Low Risk,70.13000000000001,47.6,0,2.0,Regular health checkup recommended,No Alert
+1,144.0,82.0,46,180,46.1,0.335,46,1,40-50,Obese,2,Medium Risk,Medium Risk,85.23,68.6,1,88.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+8,107.0,80.0,0,0,24.6,0.856,34,0,30-40,Normal,1,Low Risk,Low Risk,60.38000000000001,34.04,0,2.0,Maintain healthy lifestyle,No Alert
+13,158.0,114.0,0,0,42.3,0.257,44,1,40-50,Obese,0,High Risk,High Risk,89.09,73.97,1,92.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+2,121.0,70.0,32,95,39.1,0.886,23,0,20-30,Obese,1,Low Risk,Low Risk,67.03000000000002,43.29,0,4.0,Regular health checkup recommended,No Alert
+7,129.0,68.0,49,125,38.5,0.439,43,1,40-50,Obese,2,Medium Risk,Medium Risk,76.05,55.83,1,85.0,Regular health checkup recommended,No Alert
+2,90.0,60.0,0,0,23.5,0.191,25,0,20-30,Normal,1,Low Risk,Low Risk,50.55,20.37,0,0.0,Maintain healthy lifestyle,No Alert
+7,142.0,90.0,24,480,30.4,0.128,43,1,40-50,Obese,2,Medium Risk,Medium Risk,78.82000000000001,59.69,1,91.0,Regular health checkup recommended,Critical Insulin Anomaly
+3,169.0,74.0,19,125,29.9,0.268,31,1,30-40,Overweight,0,High Risk,High Risk,85.87,69.49,1,95.0,Lifestyle intervention and glucose monitoring,No Alert
+0,99.0,72.0,0,0,25.0,0.253,22,0,20-30,Overweight,1,Low Risk,Low Risk,53.7,24.75,0,3.0,Maintain healthy lifestyle,No Alert
+4,127.0,88.0,11,155,34.5,0.598,28,0,20-30,Obese,1,Low Risk,Low Risk,69.55000000000001,46.79,0,30.0,Regular health checkup recommended,No Alert
+4,118.0,70.0,0,0,44.5,0.904,26,0,20-30,Obese,1,Low Risk,Low Risk,68.35000000000001,45.13,0,37.0,Regular health checkup recommended,Severe Obesity Risk
+2,122.0,76.0,27,200,35.9,0.483,26,0,20-30,Obese,1,Low Risk,Low Risk,67.37,43.76,0,8.0,Regular health checkup recommended,No Alert
+6,125.0,78.0,31,0,27.6,0.565,49,1,40-50,Overweight,2,Medium Risk,Medium Risk,72.98,51.56,1,63.0,Regular health checkup recommended,No Alert
+1,168.0,88.0,29,0,35.0,0.905,52,1,50+,Obese,2,Medium Risk,Medium Risk,93.3,79.82,1,94.0,Lifestyle intervention and glucose monitoring,No Alert
+2,129.0,72.0,0,0,38.5,0.304,41,0,40-50,Obese,2,Medium Risk,Medium Risk,75.45,55.0,0,31.0,Regular health checkup recommended,No Alert
+4,110.0,76.0,20,100,28.4,0.118,27,0,20-30,Overweight,1,Low Risk,Low Risk,60.62,34.38,0,4.0,Maintain healthy lifestyle,No Alert
+6,80.0,80.0,36,0,39.8,0.177,28,0,20-30,Obese,1,Low Risk,Low Risk,52.34,22.86,0,8.0,Maintain healthy lifestyle,No Alert
+10,115.0,72.0,0,0,32.3,0.261,30,1,30-40,Obese,1,Low Risk,Low Risk,64.69,40.04,1,70.0,Regular health checkup recommended,No Alert
+2,127.0,46.0,21,335,34.4,0.176,22,0,20-30,Obese,1,Low Risk,Low Risk,67.72,44.25,0,7.0,Regular health checkup recommended,Critical Insulin Anomaly
+9,164.0,78.0,0,0,32.8,0.148,45,1,40-50,Obese,2,Medium Risk,Medium Risk,88.94000000000001,73.76,1,92.0,Lifestyle intervention and glucose monitoring,No Alert
+2,93.0,64.0,32,160,38.0,0.674,23,1,20-30,Obese,1,Low Risk,Low Risk,55.5,27.26,1,69.0,Maintain healthy lifestyle,No Alert
+3,158.0,64.0,13,387,31.2,0.295,24,0,20-30,Obese,0,High Risk,High Risk,79.76,60.99,0,25.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly
+5,126.0,78.0,27,22,29.6,0.439,40,0,40-50,Overweight,2,Medium Risk,Medium Risk,71.28,49.2,0,14.0,Regular health checkup recommended,No Alert
+10,129.0,62.0,36,0,41.2,0.441,38,1,30-40,Obese,0,High Risk,High Risk,75.36,54.87,1,66.0,Regular health checkup recommended,Severe Obesity Risk
+0,134.0,58.0,20,291,26.4,0.352,21,0,20-30,Overweight,1,Low Risk,Low Risk,67.82000000000001,44.39,0,14.0,Regular health checkup recommended,No Alert
+3,102.0,74.0,0,0,29.5,0.121,32,0,30-40,Overweight,1,Low Risk,Low Risk,59.25000000000001,32.47,0,12.0,Maintain healthy lifestyle,No Alert
+7,187.0,50.0,33,392,33.9,0.826,34,1,30-40,Obese,0,High Risk,High Risk,95.17,82.42,1,93.0,Immediate physician consultation,Critical Insulin Anomaly | Very High Glucose
+3,173.0,78.0,39,185,33.8,0.97,31,1,30-40,Obese,0,High Risk,High Risk,88.64,73.34,1,96.0,Lifestyle intervention and glucose monitoring,No Alert
+10,94.0,72.0,18,0,23.1,0.595,56,0,50+,Normal,2,Medium Risk,Medium Risk,61.33,35.36,0,5.0,Maintain healthy lifestyle,No Alert
+1,108.0,60.0,46,178,35.5,0.415,24,0,20-30,Obese,1,Low Risk,Low Risk,61.05,34.97,0,13.0,Maintain healthy lifestyle,No Alert
+5,97.0,76.0,27,0,35.6,0.378,52,1,50+,Obese,2,Medium Risk,Medium Risk,65.08,40.58,1,68.0,Regular health checkup recommended,No Alert
+4,83.0,86.0,19,0,29.3,0.317,34,0,30-40,Overweight,1,Low Risk,Low Risk,52.19,22.65,0,7.0,Maintain healthy lifestyle,No Alert
+1,114.0,66.0,36,200,38.1,0.289,21,0,20-30,Obese,1,Low Risk,Low Risk,63.33,38.14,0,10.0,Maintain healthy lifestyle,No Alert
+1,149.0,68.0,29,127,29.3,0.349,42,1,40-50,Overweight,2,Medium Risk,Medium Risk,80.99,62.7,0,34.0,Lifestyle intervention and glucose monitoring,No Alert
+5,117.0,86.0,30,105,39.1,0.251,42,0,40-50,Obese,2,Medium Risk,Medium Risk,71.13,48.99,0,25.0,Regular health checkup recommended,No Alert
+1,111.0,94.0,0,0,32.8,0.265,45,0,40-50,Obese,2,Medium Risk,Medium Risk,67.74000000000001,44.28,0,45.0,Regular health checkup recommended,No Alert
+4,112.0,78.0,40,0,39.4,0.236,38,0,30-40,Obese,1,Low Risk,Low Risk,68.02000000000001,44.67,0,15.0,Regular health checkup recommended,No Alert
+1,116.0,78.0,29,180,36.1,0.496,25,0,20-30,Obese,1,Low Risk,Low Risk,64.73,40.09,0,4.0,Regular health checkup recommended,No Alert
+0,141.0,84.0,26,0,32.4,0.433,22,0,20-30,Obese,0,High Risk,High Risk,72.72,51.2,0,12.0,Regular health checkup recommended,No Alert
+2,175.0,88.0,0,0,22.9,0.326,22,0,20-30,Normal,0,High Risk,High Risk,83.47,66.15,0,24.0,Lifestyle intervention and glucose monitoring,No Alert
+2,92.0,52.0,0,0,30.1,0.141,22,0,20-30,Obese,1,Low Risk,Low Risk,52.43000000000001,22.99,0,1.0,Maintain healthy lifestyle,No Alert
+3,130.0,78.0,23,79,28.4,0.323,34,1,30-40,Overweight,1,Low Risk,Low Risk,70.72,48.42,1,69.0,Regular health checkup recommended,No Alert
+8,120.0,86.0,0,0,28.4,0.259,22,1,20-30,Overweight,1,Low Risk,Low Risk,63.12,37.85,1,75.0,Maintain healthy lifestyle,No Alert
+2,174.0,88.0,37,120,44.5,0.646,24,1,20-30,Obese,0,High Risk,High Risk,90.15,75.44,1,95.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+2,106.0,56.0,27,165,29.0,0.426,22,0,20-30,Overweight,1,Low Risk,Low Risk,57.70000000000001,30.32,0,1.0,Maintain healthy lifestyle,No Alert
+2,105.0,75.0,0,0,23.3,0.56,53,0,50+,Normal,2,Medium Risk,Medium Risk,64.89,40.31,0,24.0,Regular health checkup recommended,No Alert
+4,95.0,60.0,32,0,35.4,0.284,28,0,20-30,Obese,1,Low Risk,Low Risk,57.02,29.37,0,3.0,Maintain healthy lifestyle,No Alert
+0,126.0,86.0,27,120,27.4,0.515,21,0,20-30,Overweight,1,Low Risk,Low Risk,64.92,40.36,0,5.0,Regular health checkup recommended,No Alert
+8,65.0,72.0,23,0,32.0,0.6,42,0,40-50,Obese,1,Low Risk,Low Risk,48.2,17.1,0,5.0,Maintain healthy lifestyle,No Alert
+2,99.0,60.0,17,160,36.6,0.453,21,0,20-30,Obese,1,Low Risk,Low Risk,56.88,29.18,0,3.0,Maintain healthy lifestyle,No Alert
+1,102.0,74.0,0,0,39.5,0.293,42,1,40-50,Obese,2,Medium Risk,Medium Risk,65.25,40.81,1,66.0,Regular health checkup recommended,No Alert
+11,120.0,80.0,37,150,42.3,0.785,48,1,40-50,Obese,2,Medium Risk,Medium Risk,75.09,54.5,1,76.0,Regular health checkup recommended,Severe Obesity Risk
+3,102.0,44.0,20,94,30.8,0.4,26,0,20-30,Obese,1,Low Risk,Low Risk,57.84,30.51,0,2.0,Maintain healthy lifestyle,No Alert
+1,109.0,58.0,18,116,28.5,0.219,22,0,20-30,Overweight,1,Low Risk,Low Risk,58.75,31.78,0,2.0,Maintain healthy lifestyle,No Alert
+9,140.0,94.0,0,0,32.7,0.734,45,1,40-50,Obese,2,Medium Risk,Medium Risk,79.31,60.37,1,60.0,Lifestyle intervention and glucose monitoring,No Alert
+13,153.0,88.0,37,140,40.6,1.174,39,0,30-40,Obese,0,High Risk,High Risk,85.08,68.39,0,38.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+12,100.0,84.0,33,105,30.0,0.488,46,0,40-50,Obese,2,Medium Risk,Medium Risk,62.8,37.41,1,51.0,Maintain healthy lifestyle,No Alert
+1,147.0,94.0,41,0,49.3,0.358,27,1,20-30,Obese,0,High Risk,High Risk,81.69,63.68,1,63.0,Lifestyle intervention and glucose monitoring,Severe Obesity Risk
+1,81.0,74.0,41,57,46.3,1.096,32,0,30-40,Obese,1,Low Risk,Low Risk,55.89,27.8,0,6.0,Maintain healthy lifestyle,Severe Obesity Risk
+3,187.0,70.0,22,200,36.4,0.408,36,1,30-40,Obese,0,High Risk,High Risk,96.52,84.3,1,96.0,Immediate physician consultation,Very High Glucose
+6,162.0,62.0,0,0,24.3,0.178,50,1,50+,Normal,2,Medium Risk,Medium Risk,87.09,71.19,1,90.0,Lifestyle intervention and glucose monitoring,No Alert
+4,136.0,70.0,0,0,31.2,1.182,22,1,20-30,Obese,1,Low Risk,Low Risk,70.36,47.92,1,83.0,Regular health checkup recommended,No Alert
+1,121.0,78.0,39,74,39.0,0.261,28,0,20-30,Obese,1,Low Risk,Low Risk,68.50000000000001,45.33,0,5.0,Regular health checkup recommended,No Alert
+3,108.0,62.0,24,0,26.0,0.223,25,0,20-30,Overweight,1,Low Risk,Low Risk,58.5,31.43,0,2.0,Maintain healthy lifestyle,No Alert
+0,181.0,88.0,44,510,43.3,0.222,26,1,20-30,Obese,0,High Risk,High Risk,93.19,79.67,1,93.0,Lifestyle intervention and glucose monitoring,Critical Insulin Anomaly | Very High Glucose | Severe Obesity Risk
+8,154.0,78.0,32,0,32.4,0.443,45,1,40-50,Obese,2,Medium Risk,Medium Risk,84.82,68.03,1,84.0,Lifestyle intervention and glucose monitoring,No Alert
+1,128.0,88.0,39,110,36.5,1.057,37,1,30-40,Obese,0,High Risk,High Risk,73.25,51.94,1,77.0,Regular health checkup recommended,No Alert
+7,137.0,90.0,41,0,32.0,0.391,39,0,30-40,Obese,2,Medium Risk,Medium Risk,76.10000000000001,55.9,1,60.0,Regular health checkup recommended,No Alert
+0,123.0,72.0,0,0,36.3,0.258,52,1,50+,Obese,2,Medium Risk,Medium Risk,75.69,55.33,1,77.0,Regular health checkup recommended,No Alert
+1,106.0,76.0,0,0,37.5,0.197,26,0,20-30,Obese,1,Low Risk,Low Risk,61.45,35.53,0,5.0,Maintain healthy lifestyle,No Alert
+6,190.0,92.0,0,0,35.5,0.278,66,1,50+,Obese,2,Medium Risk,Medium Risk,106.45,98.11,1,88.0,Immediate physician consultation,Very High Glucose
+2,88.0,58.0,26,16,28.4,0.766,22,0,20-30,Overweight,1,Low Risk,Low Risk,50.32,20.05,0,0.0,Maintain healthy lifestyle,No Alert
+9,170.0,74.0,31,0,44.0,0.403,43,1,40-50,Obese,0,High Risk,High Risk,94.1,80.93,1,96.0,Immediate physician consultation,Severe Obesity Risk
+9,89.0,62.0,0,0,22.5,0.142,33,0,30-40,Normal,1,Low Risk,Low Risk,52.25,22.74,0,4.0,Maintain healthy lifestyle,No Alert
+10,101.0,76.0,48,180,32.9,0.171,63,0,50+,Obese,2,Medium Risk,Medium Risk,69.17,46.27,1,65.0,Regular health checkup recommended,No Alert
+2,122.0,70.0,27,0,36.8,0.34,27,0,20-30,Obese,1,Low Risk,Low Risk,67.94,44.56,0,11.0,Regular health checkup recommended,No Alert
+5,121.0,72.0,23,112,26.2,0.245,30,0,30-40,Overweight,1,Low Risk,Low Risk,65.26,40.83,0,6.0,Regular health checkup recommended,No Alert
+1,126.0,60.0,0,0,30.1,0.349,47,1,40-50,Obese,2,Medium Risk,Medium Risk,73.53,52.33,1,85.0,Regular health checkup recommended,No Alert
+1,93.0,70.0,31,0,30.4,0.315,23,0,20-30,Obese,1,Low Risk,Low Risk,53.22,24.09,0,6.0,Maintain healthy lifestyle,No Alert
